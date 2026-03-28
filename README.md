@@ -2,7 +2,7 @@
 
 I build AI systems that run daily to solve daily life problems.
 
-Most of my work is hands-on: real agent orchestration, real workflows, real deployment patterns. I'm currently running **four AI-native systems** with **18+ agents** and **119+ skills** across different architectures — all built on Claude Code, with constitutional rules, persistent memory, and hard-stop quality gates.
+Most of my work is hands-on: real agent orchestration, real workflows, real deployment patterns. I'm currently running **three AI-native systems** with **18+ agents** and **119+ skills** across different architectures — all built on Claude Code, with constitutional rules, persistent memory, and hard-stop quality gates.
 
 I ship tools that I use every day and that other builders can deploy and use right away.
 
@@ -16,9 +16,7 @@ I ship tools that I use every day and that other builders can deploy and use rig
 
 ## What I'm building
 
-**[Mnemos](https://github.com/Soph20/mnemos-capture)** — Zero-friction knowledge capture for agentic workflows. Paste anything, Claude extracts insights, auto-commits to your knowledge repo, and your Claude Code workflow picks it up. No more bookmarks you forget about. Deploy your own in 60 seconds.
-
-**Promix** — An AI-native workforce framework. 12 agents, 93 skills, enforced sequential workflows with five hard-stop quality gates. Built to scan business operations, identify bottlenecks, and generate AI deployment hypotheses. Think of it as an AI team that runs your ops.
+**[Mnemos](https://github.com/Soph20/mnemos-capture)**  — A knowledge pipeline for agentic workflows. Paste any resource — articles, threads, transcripts, ideas — and an LLM extracts the insight, tags it, and commits it to a GitHub repo you own. Your AI agents pull from it via MCP or Git. Built with Haiku 4.5, prompt caching, and BYOK — costs under $1/month. Try it: mnemos-capture.vercel.app
 
 **Nomos** — Agentic workflow engine for product managers. Discovery, delivery, stakeholder comms, sprint planning — all running inside Claude Code with persistent memory and MCP integrations. Your PM operating system.
 
@@ -27,5 +25,5 @@ I ship tools that I use every day and that other builders can deploy and use rig
 ## About me
 
 - **Senior Technical Product Manager** — shipped orchestration APIs scaling to 10M+ messages/month, redesigned AWS infrastructure saving €60K/year
-- Building AI systems since 2021 — from an LLM-powered product as solo founder (HoliPet) to the four-system agentic infrastructure I run today.
+- Building AI systems since 2021 — from an LLM-powered product as solo founder [HoliPet](https://app.holipet.io/) to the three-system agentic infrastructure I run today.
 - My superpower? I think in systems: inputs, outputs, feedback loops, constraints. Every tool I build follows the same discipline — constitutional rules governing agent behavior, persistent memory across sessions, and evaluation to know when things break.
