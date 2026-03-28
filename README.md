@@ -16,7 +16,7 @@ I ship tools that I use every day and that other builders can deploy and use rig
 
 ## What I'm building
 
-**[Mnemos](https://github.com/Soph20/mnemos-capture)**  — A knowledge pipeline for agentic workflows. Paste any resource — articles, threads, transcripts, ideas — and an LLM extracts the insight, tags it, and commits it to a GitHub repo you own. Your AI agents pull from it via MCP or Git. Built with Haiku 4.5, prompt caching, and BYOK — costs under $1/month. Try it: mnemos-capture.vercel.app
+**[Mnemos](https://github.com/Soph20/mnemos-capture)**  — A knowledge pipeline for agentic workflows. Paste any resource — articles, threads, transcripts, ideas — and an LLM extracts the insight, tags it, and commits it to a GitHub repo you own. Your AI agents pull from it via MCP or Git. Built with Haiku 4.5, prompt caching, and BYOK — costs under $1/month. Try it: [here](https://github.com/Soph20/mnemos-capture)
 
 **Nomos** — Agentic workflow engine for product managers. Discovery, delivery, stakeholder comms, sprint planning — all running inside Claude Code with persistent memory and MCP integrations. Your PM operating system.
 
