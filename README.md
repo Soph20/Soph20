@@ -24,6 +24,6 @@ I ship tools that I use every day and that other builders can deploy and use rig
 
 ## About me
 
-- **Senior Technical Product Manager** — shipped orchestration APIs scaling to 10M+ messages/month, redesigned AWS infrastructure saving €60K/year
+- Senior Technical Product Manager
 - Building AI systems since 2021 — from an LLM-powered product as solo founder [HoliPet](https://app.holipet.io/) to the three-system agentic infrastructure I run today.
 - My superpower? I think in systems: inputs, outputs, feedback loops, constraints. Every tool I build follows the same discipline — constitutional rules governing agent behavior, persistent memory across sessions, and evaluation to know when things break.
