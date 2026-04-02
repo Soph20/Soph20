@@ -20,8 +20,6 @@ I ship tools that I use every day and that other builders can deploy and use rig
 
 **Nomos** — Agentic workflow engine for product managers. Discovery, delivery, stakeholder comms, sprint planning — all running inside Claude Code with persistent memory and MCP integrations. Your PM operating system.
 
-**Meridian-OS** — Career intelligence system. 6 agents, 26 skills. Scores job fit against your profile, tailors your CV, tracks your pipeline. Built for product people who want to be intentional about their next move.
-
 ## About me
 
 - Senior Technical Product Manager
