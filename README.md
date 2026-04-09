@@ -1,10 +1,12 @@
 # Hi, I'm Soph 👋
 
-I build AI systems that run daily to solve daily life problems.
+![Claude Code](https://img.shields.io/badge/Claude_Code-black?style=flat&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Protocol-blue?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white)
 
-Most of my work is hands-on: real agent orchestration, real workflows, real deployment patterns. I'm currently running **three AI-native systems** with **18+ agents** and **119+ skills** across different architectures — all built on Claude Code, with constitutional rules, persistent memory, and hard-stop quality gates.
-
-I ship tools that I use every day and that other builders can deploy and use right away.
+I build and run multi-agent AI infrastructure — real orchestration, real workflows, real deployment patterns. Currently running **three AI-native systems** with **18+ agents** and **121+ skills** across different architectures, all built on Claude Code with constitutional rules, persistent memory, and hard-stop quality gates.
 
 ## What I work on
 
@@ -16,7 +18,9 @@ I ship tools that I use every day and that other builders can deploy and use rig
 
 ## What I'm building
 
-**[Mnemos](https://github.com/Soph20/mnemos-capture)**  — A knowledge pipeline for agentic workflows. Paste any resource — articles, threads, transcripts, ideas — and an LLM extracts the insight, tags it, and commits it to a GitHub repo you own. Your AI agents pull from it via MCP or Git. Built with Haiku 4.5, prompt caching, and BYOK — costs under $1/month. Try it: [here](https://github.com/Soph20/mnemos-capture)
+**[Mnemos](https://github.com/Soph20/mnemos-capture)** — A knowledge pipeline for agentic workflows. Paste any resource — articles, threads, transcripts, ideas — and an LLM extracts the insight, tags it, and commits it to a GitHub repo you own. Your AI agents pull from it via MCP or Git. Built with Haiku 4.5, prompt caching, and BYOK — costs under $1/month. Try it: [here](https://github.com/Soph20/mnemos-capture)
+
+**Promix OS** — Instead of one AI doing everything, 15 specialized agents (PM, Architect, Engineer, QA, Legal, etc.) each running as their own Claude instance with hard boundaries — the PM can't write code, QA can block a release. A Chief of Staff orchestrator sequences work, enforces quality gates, and catches cognitive overload before it derails you. 121+ skills, persistent memory across sessions, one workforce powering multiple products.
 
 **Nomos** — Agentic workflow engine for product managers. Discovery, delivery, stakeholder comms, sprint planning — all running inside Claude Code with persistent memory and MCP integrations. Your PM operating system.
 
@@ -24,4 +28,4 @@ I ship tools that I use every day and that other builders can deploy and use rig
 
 - AI Product Manager
 - Building AI systems since 2021 — from an LLM-powered product as solo founder [HoliPet](https://app.holipet.io/) to the three-system agentic infrastructure I run today.
-- My superpower? I think in systems: inputs, outputs, feedback loops, constraints. Every tool I build follows the same discipline — constitutional rules governing agent behavior, persistent memory across sessions, and evaluation to know when things break.
+- I think in systems: inputs, outputs, feedback loops, constraints. Every tool I build follows the same discipline — constitutional rules governing agent behavior, persistent memory across sessions, and evaluation to know when things break.
