@@ -18,6 +18,8 @@ I ship tools that I use every day and that other builders can deploy and use rig
 
 **[Mnemos](https://github.com/Soph20/mnemos-capture)**  — A knowledge pipeline for agentic workflows. Paste any resource — articles, threads, transcripts, ideas — and an LLM extracts the insight, tags it, and commits it to a GitHub repo you own. Your AI agents pull from it via MCP or Git. Built with Haiku 4.5, prompt caching, and BYOK — costs under $1/month. Try it: [here](https://github.com/Soph20/mnemos-capture)
 
+**Promix OS** — An agentic workforce runtime that turns Claude Code into a full operating team of specialized AI agents. Instead of one AI doing everything, Promix OS gives you 15 specialized agents (PM, Designer, Architect, Engineer, QA, Legal Counsel, etc.) that operate as real subagents — each with its own context window, reasoning, and tools. They're coordinated by Promix, a Chief of Staff orchestrator that manages sequencing, focus, and quality gates.
+
 **Nomos** — Agentic workflow engine for product managers. Discovery, delivery, stakeholder comms, sprint planning — all running inside Claude Code with persistent memory and MCP integrations. Your PM operating system.
 
 ## About me
