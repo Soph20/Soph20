@@ -15,11 +15,11 @@ I build and run multi-agent AI infrastructure — real orchestration, real workf
 
 ## What I'm building
 
-**[Mnemos](https://github.com/Soph20/mnemos-capture)** — A knowledge pipeline for agentic workflows. Paste any resource — articles, threads, transcripts, ideas — and an LLM extracts the insight, tags it, and commits it to a GitHub repo you own. Your AI agents pull from it via MCP or Git. Built with Haiku 4.5, prompt caching, and BYOK — costs under $1/month. Try it: [here](https://github.com/Soph20/mnemos-capture)
+- **[Mnemos](https://github.com/Soph20/mnemos-capture)** — A knowledge pipeline for agentic workflows. Paste any resource — articles, threads, transcripts, ideas — and an LLM extracts the insight, tags it, and commits it to a GitHub repo you own. Your AI agents pull from it via MCP or Git. Built with Haiku 4.5, prompt caching, and BYOK — costs under $1/month.
 
-**Promix OS** — An agentic workforce runtime on top of Claude that enforces the structure real teams need: 16 specialized agents with role boundaries, 121 reusable skills, mandatory quality gates with standardized verdicts, institutional memory across sessions, and multi-product portfolio management. The architecture is deliberately simple — thin runtime, smart prompts — because the right bet is that models get better, not that orchestration code gets smarter. Shipped across three products, patterns extracted from competing frameworks, opinionated decisions about where intelligence should live in an agentic system. Built for the teams that want to run this at scale.
+- **Promix OS** — An agentic workforce runtime on top of Claude that enforces the structure real teams need: 16 specialized agents with role boundaries, 121 reusable skills, mandatory quality gates with standardized verdicts, institutional memory across sessions, and multi-product portfolio management. The architecture is deliberately simple — thin runtime, smart prompts — because the right bet is that models get better, not that orchestration code gets smarter. Shipped across three products, patterns extracted from competing frameworks, opinionated decisions about where intelligence should live in an agentic system. Built for the teams that want to run this at scale.
 
-**Nomos** — Agentic workflow engine for product managers. Discovery, delivery, stakeholder comms, sprint planning — all running inside Claude Code with persistent memory and MCP integrations. Your PM operating system.
+- **Nomos** — Agentic workflow engine for product managers. Discovery, delivery, stakeholder comms, sprint planning — all running inside Claude Code with persistent memory and MCP integrations. Your PM operating system.
 
 ## About me
 
