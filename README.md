@@ -23,6 +23,9 @@ I build and run multi-agent AI infrastructure — real orchestration, real workf
 
 ## About me
 
-- AI Product Manager
-- Building AI systems since 2021 — from an LLM-powered product as solo founder [HoliPet](https://app.holipet.io/) to the three-system agentic infrastructure I run today.
-- I think in systems: inputs, outputs, feedback loops, constraints. Every tool I build follows the same discipline — constitutional rules governing agent behavior, persistent memory across sessions, and evaluation to know when things break.
+- PM + solution architect + delivery lead — I spec it, architect it, and ship it.
+- Self-taught. Dropped out, scaled a national logistics platform, moved to Paris, landed CAC 40 accounts, then learned AI by shipping real systems — from a solo-founded LLM product [HoliPet](https://app.holipet.io/) to the three-system agentic infrastructure I run today.
+- Technical enough to be a peer: I read logs, find the problem, and come to engineers with a diagnosis and a fix — not a ticket.
+- I fall in love with problems, not solutions. I dive with users, feel what's broken, and back it with data before I touch the architecture.
+- Production experience on Claude's SDK, MCP servers, evaluation frameworks, and cost optimization — built from shipping, not from reading docs.
+- I can explain the system to a CTO in English and close the deal in French. In Paris.
