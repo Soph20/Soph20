@@ -1,7 +1,5 @@
 # Hi, I'm Soph 👋
 
-![Claude Code](https://img.shields.io/badge/Claude_Code-1e293b?style=flat-square&logo=anthropic&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-Protocol-1e293b?style=flat-square&logoColor=white) ![Python](https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-1e293b?style=flat-square&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-1e293b?style=flat-square&logo=vercel&logoColor=white)
-
 I build and run multi-agent AI infrastructure — real orchestration, real workflows, real deployment patterns. Currently running **three AI-native systems** with **18+ agents** and **121+ skills** across different architectures, all built on Claude Code with constitutional rules, persistent memory, and hard-stop quality gates.
 
 ### Building with
