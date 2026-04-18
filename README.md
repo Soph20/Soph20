@@ -23,4 +23,5 @@ I build agentic systems — three of them, shipped and running today. A workforc
 ## About me
 
 Seven years shipping at scale — APIs, delivery tooling, platforms. Trilingual (ES/EN/FR). I learn by building: every system above exists because I hit the problem myself and couldn't find the right tool. 
-Quoted in [Forbes Centroamérica](https://forbescentroamerica.com/2025/07/17/pettech-una-industria-que-crece-y-representa-nuevas-oportunidades-de-negocio-en-latinoamerica/) as founder of HoliPet on the LATAM pettech market.
+
+Quoted in [Forbes Centroamérica](https://forbescentroamerica.com/2025/07/17/pettech-una-industria-que-crece-y-representa-nuevas-oportunidades-de-negocio-en-latinoamerica/) as founder of HoliPet on the LATAM pet tech market.
