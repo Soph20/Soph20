@@ -3,7 +3,7 @@
 I build agentic systems — three of them, shipped and running today. A workforce runtime on Claude with role-bounded agents, reusable skills, and mandatory quality gates. A knowledge pipeline that extracts insights from any resource and commits them to a repo your agents pull from via MCP. A PM operating system inside Claude Code with persistent memory across sessions. My bet: models get better, orchestration code shouldn't. So I build thin runtimes and smart prompts — and ship the result across real products.
 
 ### My stack
-Claude Code · Claude API · MCP · TypeScript · Python · Supabase · Vercel · Linear · Notion · Figma
+![Claude Code](https://img.shields.io/badge/Claude_Code-1e293b?style=flat-square&logo=anthropic&logoColor=white) ![Claude API](https://img.shields.io/badge/Claude_API-1e293b?style=flat-square&logo=anthropic&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-Protocol-1e293b?style=flat-square&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-1e293b?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-1e293b?style=flat-square&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-1e293b?style=flat-square&logo=vercel&logoColor=white) ![Linear](https://img.shields.io/badge/Linear-1e293b?style=flat-square&logo=linear&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-1e293b?style=flat-square&logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-1e293b?style=flat-square&logo=figma&logoColor=white)
 
 ## What I work on
 
