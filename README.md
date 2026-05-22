@@ -8,7 +8,7 @@ Currently working on **Promix** — an AI-native workforce. Mnemos, HoliPet, and
 ## What I work on
 
 - **AI agent orchestration**: multi-agent teams, sequential workflows, constitutional rules, quality gates, institutional memory
-- **Agentic developer tools**: Claude Code skills, MCP integrations, scheduled tasks, capture-to-workflow pipelines
+- **Agentic developer tools**: Claude Code skills, CODEX, MCP integrations, scheduled tasks, capture-to-workflow pipelines
 - **AI deployment patterns**: how to structure agents, handle failure modes, manage context, evaluate outputs
 - **Product + engineering**: seven years shipping APIs, delivery tooling, and platforms at scale — I build what I spec
 
