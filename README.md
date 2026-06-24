@@ -14,13 +14,13 @@ Currently working on **Promix** — an AI-native workforce. Mnemos, HoliPet, and
 
 ## What I'm building
 
-- **[Mnemos](https://github.com/Soph20/mnemos-capture)** — A knowledge pipeline that ingests the outside world and makes it directly actionable by any AI agent — over MCP.
+- **[Mnemos](https://github.com/Soph20/mnemos-capture)**  — A knowledge pipeline that ingests the outside world and makes it directly actionable by any AI agent — over MCP.
 
-Your agent only knows what it was trained on. It doesn't know the article you read this morning, the framework you found last week, or the decision you made last sprint. Your AI agent finally knows what you've been reading.
+  Your agent only knows what it was trained on. It doesn't know the article you read this morning, the framework you found last week, or the decision you made last sprint. Your AI agent           finally knows what you've been reading.
 
-Mnemos is the pipeline between the two. Capture any insight once — Mnemos extracts it, stores it as plain Markdown in your own GitHub repo, and serves it to your agent over MCP. Then it goes further: at session start it briefs your agent on what matters right now, turns insights into implementation plans, and hands them to whatever assistant you run — Claude Code, Codex, Cursor, Gemini, anything MCP-compatible.
+  Mnemos is the pipeline between the two. Capture any insight once — Mnemos extracts it, stores it as plain Markdown in your own GitHub repo, and serves it to your agent over MCP. Then it goes    further: at session start it briefs your agent on what matters right now, turns insights into implementation plans, and hands them to whatever assistant you run — Claude Code, Codex, Cursor,    Gemini, anything MCP-compatible.
 
-It's not a second brain, a vault, or a note-taking app — those store knowledge for you to read later. Mnemos makes knowledge your agent acts on now. Supports BYOK, and it uses Haiku 4.5 by default, prompt caching — costs under $1/month. [Live](https://mnemos-capture.vercel.app).
+  It's not a second brain, a vault, or a note-taking app — those store knowledge for you to read later. Mnemos makes knowledge your agent acts on now. Supports BYOK, and it uses Haiku 4.5 by      default, prompt caching — costs under $1/month. [Live](https://mnemos-capture.vercel.app).
 
 - **Promix OS** — An agentic workforce runtime: 16 specialized agents with hard role boundaries, 121 reusable skills, quality gates with standardized verdicts, and institutional memory across sessions. Runs inside Claude Code *or* standalone — its own CLI, daemon, MCP server, multi-provider router (Claude, OpenAI, Gemini), and web dashboard. Architecture is deliberately thin — the IP lives in the prompts and skills, not the runtime — because the right bet is that models keep improving. Powers the three products on this page.
 
