@@ -84,8 +84,6 @@ The interesting part is the architecture.
 
 Emergency requests are classified deterministically before any LLM is invoked using multilingual keyword matching and semantic embeddings, prioritizing recall where false negatives are unacceptable.
 
-Everything else is routed through local models for privacy and cost efficiency.
-
 → https://holipet.io
 
 ## Expertise
@@ -99,7 +97,7 @@ Everything else is routed through local models for privacy and cost efficiency.
 - Production AI
 - Developer Tooling
 
-Also exploring agent memory, context engineering, evaluation, and long-running AI systems.
+Also exploring agent memory, context engineering, context memory graphs, evaluation, and long-running AI systems.
 
 ## Principles
 
