@@ -1,16 +1,12 @@
 # Hi, I'm Soph
 
-> Humans consume information.
-> Agents execute information.
-> I build the infrastructure that converts one into the other.
-
----
+Humans consume information.  
+Agents execute information.  
+I build the infrastructure that converts one into the other.
 
 <p align="center">
   <img src="assets/banner/hero.png" alt="Soph — Building systems where humans learn and AI executes." width="100%" />
 </p>
-
----
 
 ## Building With
 
@@ -37,8 +33,6 @@
     <img src="assets/logos/vercel.svg" height="36" />
   </picture>
 </p>
-
----
 
 ## Currently working on
 
@@ -84,8 +78,6 @@ Everything else is routed through local models for privacy and cost efficiency.
 
 Also exploring agent memory, context engineering, evaluation, and long-running AI systems.
 
----
-
 ## Expertise
 
 - Multi-Agent Systems
@@ -97,8 +89,6 @@ Also exploring agent memory, context engineering, evaluation, and long-running A
 - Production AI
 - Developer Tooling
 
----
-
 ## Principles
 
 - Context is infrastructure.
@@ -107,8 +97,6 @@ Also exploring agent memory, context engineering, evaluation, and long-running A
 - Evaluation beats intuition.
 - Thin runtimes outlast thick frameworks.
 - Build the tools you wish existed.
-
----
 
 ## About
 
@@ -121,7 +109,5 @@ Trilingual (ES • EN • FR).
 Quoted in Forbes Centroamérica for work on HoliPet and the LATAM PetTech ecosystem.
 
 I build products at the intersection of AI systems, knowledge infrastructure, and real-world impact.
-
----
 
 > Always exploring better ways for humans and AI agents to work together.
