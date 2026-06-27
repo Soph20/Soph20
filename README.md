@@ -8,7 +8,9 @@ I build the infrastructure that converts one into the other.
   <img src="assets/banner/hero.png" alt="Soph — Building systems where humans learn and AI executes." width="100%" />
 </p>
 
-### Building With
+### <img src="assets/headings/building-with.svg" alt="/building-with" width="170" height="26" />
+
+Languages, models, and infrastructure I build with.
 
 <p align="left">
   <img src="assets/logos/claude-code.svg" width="40" height="40" alt="Claude" />
@@ -45,7 +47,9 @@ I build the infrastructure that converts one into the other.
   </picture>
 </p>
 
-### Currently working on
+### <img src="assets/headings/currently-working-on.svg" alt="/currently-working-on" width="252" height="26" />
+
+The systems I'm building right now.
 
 <p align="center">
   <img src="assets/logos/promix.png" width="120" alt="Promix" />
@@ -97,7 +101,9 @@ Emergency requests are classified deterministically before any LLM is invoked us
 
 → https://holipet.io
 
-### Expertise
+### <img src="assets/headings/expertise.svg" alt="/expertise" width="122" height="26" />
+
+Where I go deep.
 
 - Multi-Agent Systems
 - Context Engineering
@@ -110,7 +116,9 @@ Emergency requests are classified deterministically before any LLM is invoked us
 
 Also exploring agent memory, context engineering, context memory graphs, evaluation, and long-running AI systems.
 
-### Principles
+### <img src="assets/headings/principles.svg" alt="/principles" width="134" height="26" />
+
+How I approach building.
 
 - Context is infrastructure.
 - Institutional memory compounds.
@@ -120,7 +128,7 @@ Also exploring agent memory, context engineering, context memory graphs, evaluat
 - Design systems with AI at the core, not at the edge.
 - Build the tools you wish existed.
 
-### About
+### <img src="assets/headings/about.svg" alt="/about" width="75" height="26" />
 
 Founder building AI-native infrastructure.
 
