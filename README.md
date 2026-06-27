@@ -13,36 +13,21 @@ I build the infrastructure that converts one into the other.
 <p align="left">
   <img src="assets/logos/claude-code.svg" width="40" height="40" alt="Claude" />
   &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/logos/openai-dark.svg" />
-    <img src="assets/logos/openai.svg" width="40" height="40" alt="OpenAI" />
-  </picture>
+  <img src="assets/logos/openai.svg" width="40" height="40" alt="OpenAI" />
   &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/logos/mcp-dark.svg" />
-    <img src="assets/logos/mcp.svg" width="40" height="40" alt="MCP" />
-  </picture>
+  <img src="assets/logos/mcp.svg" width="40" height="40" alt="MCP" />
   &nbsp;
   <img src="assets/logos/python.svg" width="40" height="40" alt="Python" />
   &nbsp;
   <img src="assets/logos/typescript.svg" width="40" height="40" alt="TypeScript" />
   &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/logos/rust-dark.svg" />
-    <img src="assets/logos/rust.svg" width="40" height="40" alt="Rust" />
-  </picture>
+  <img src="assets/logos/rust.svg" width="40" height="40" alt="Rust" />
   &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/logos/github-dark.svg" />
-    <img src="assets/logos/github.svg" width="40" height="40" alt="GitHub" />
-  </picture>
+  <img src="assets/logos/github.svg" width="40" height="40" alt="GitHub" />
   &nbsp;
   <img src="assets/logos/supabase.svg" width="40" height="40" alt="Supabase" />
   &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/logos/vercel-dark.svg" />
-    <img src="assets/logos/vercel.svg" width="40" height="40" alt="Vercel" />
-  </picture>
+  <img src="assets/logos/vercel.svg" width="40" height="40" alt="Vercel" />
 </p>
 
 ## Currently working on
