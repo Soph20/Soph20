@@ -4,8 +4,6 @@
 > Agents execute information.
 > I build the infrastructure that converts one into the other.
 
-Founder building AI-native infrastructure through Promix, Mnemos, HoliPet, and Vantx.
-
 ---
 
 <p align="center">
