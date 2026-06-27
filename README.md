@@ -1,4 +1,4 @@
-# <img src="assets/headings/hi-im-soph.svg" alt="/hi-im-soph" width="175" height="34" />
+# <img src="assets/headings/hi-im-soph.svg" alt="/hi-im-soph" width="460" height="33" />
 
 Humans consume information.  
 Agents execute information.  
@@ -8,7 +8,7 @@ I build the infrastructure that converts one into the other.
   <img src="assets/banner/hero.png" alt="Soph — Building systems where humans learn and AI executes." width="100%" />
 </p>
 
-### <img src="assets/headings/sec-building-with.svg" alt="/building-with — Languages, models, and infrastructure I build with." width="462" height="54" />
+### <img src="assets/headings/sec-building-with.svg" alt="/building-with — Languages, models, and infrastructure I build with." width="460" height="53" />
 
 <p align="left">
   <img src="assets/logos/claude-code.svg" width="40" height="40" alt="Claude" />
@@ -45,7 +45,7 @@ I build the infrastructure that converts one into the other.
   </picture>
 </p>
 
-### <img src="assets/headings/sec-currently-working-on.svg" alt="/currently-working-on — The systems I'm building right now." width="327" height="54" />
+### <img src="assets/headings/sec-currently-working-on.svg" alt="/currently-working-on — The systems I'm building right now." width="460" height="53" />
 
 <p align="center">
   <img src="assets/logos/promix.png" width="120" alt="Promix" />
@@ -97,7 +97,7 @@ Emergency requests are classified deterministically before any LLM is invoked us
 
 → https://holipet.io
 
-### <img src="assets/headings/sec-expertise.svg" alt="/expertise — Where I go deep." width="159" height="54" />
+### <img src="assets/headings/sec-expertise.svg" alt="/expertise — Where I go deep." width="460" height="53" />
 
 - Multi-Agent Systems
 - Context Engineering
@@ -110,7 +110,7 @@ Emergency requests are classified deterministically before any LLM is invoked us
 
 Also exploring agent memory, context engineering, context memory graphs, evaluation, and long-running AI systems.
 
-### <img src="assets/headings/sec-principles.svg" alt="/principles — How I approach building." width="219" height="54" />
+### <img src="assets/headings/sec-principles.svg" alt="/principles — How I approach building." width="460" height="53" />
 
 - Context is infrastructure.
 - Institutional memory compounds.
@@ -120,7 +120,7 @@ Also exploring agent memory, context engineering, context memory graphs, evaluat
 - Design systems with AI at the core, not at the edge.
 - Build the tools you wish existed.
 
-### <img src="assets/headings/sec-about.svg" alt="/about — Founder building AI-native infrastructure." width="381" height="54" />
+### <img src="assets/headings/sec-about.svg" alt="/about — Founder building AI-native infrastructure." width="460" height="53" />
 
 Seven years shipping APIs, developer platforms, and production software.
 
@@ -132,7 +132,7 @@ I build products at the intersection of AI systems, knowledge infrastructure, an
 
 Always exploring better ways for humans and technology to work together.
 
-### <img src="assets/headings/connect.svg" alt="/connect" width="129" height="34" />
+### <img src="assets/headings/connect.svg" alt="/connect" width="460" height="33" />
 
 <p align="left">
   <a href="https://linkedin.com/in/sofia-padron-valdez"><img src="assets/social/linkedin.svg" width="28" height="28" alt="LinkedIn" /></a>
