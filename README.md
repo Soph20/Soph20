@@ -1,4 +1,4 @@
-# Hi, I'm Soph
+# <img src="assets/headings/hi-im-soph.svg" alt="/hi-im-soph" width="227" height="44" />
 
 Humans consume information.  
 Agents execute information.  
@@ -10,7 +10,7 @@ I build the infrastructure that converts one into the other.
 
 ### <img src="assets/headings/building-with.svg" alt="/building-with" width="170" height="26" />
 
-Languages, models, and infrastructure I build with.
+<img src="assets/headings/desc-building-with.svg" alt="Languages, models, and infrastructure I build with." width="350" height="18" />
 
 <p align="left">
   <img src="assets/logos/claude-code.svg" width="40" height="40" alt="Claude" />
@@ -49,7 +49,7 @@ Languages, models, and infrastructure I build with.
 
 ### <img src="assets/headings/currently-working-on.svg" alt="/currently-working-on" width="252" height="26" />
 
-The systems I'm building right now.
+<img src="assets/headings/desc-currently-working-on.svg" alt="The systems I'm building right now." width="241" height="18" />
 
 <p align="center">
   <img src="assets/logos/promix.png" width="120" alt="Promix" />
@@ -103,7 +103,7 @@ Emergency requests are classified deterministically before any LLM is invoked us
 
 ### <img src="assets/headings/expertise.svg" alt="/expertise" width="122" height="26" />
 
-Where I go deep.
+<img src="assets/headings/desc-expertise.svg" alt="Where I go deep." width="112" height="18" />
 
 - Multi-Agent Systems
 - Context Engineering
@@ -118,7 +118,7 @@ Also exploring agent memory, context engineering, context memory graphs, evaluat
 
 ### <img src="assets/headings/principles.svg" alt="/principles" width="134" height="26" />
 
-How I approach building.
+<img src="assets/headings/desc-principles.svg" alt="How I approach building." width="166" height="18" />
 
 - Context is infrastructure.
 - Institutional memory compounds.
@@ -130,7 +130,7 @@ How I approach building.
 
 ### <img src="assets/headings/about.svg" alt="/about" width="75" height="26" />
 
-Founder building AI-native infrastructure.
+<img src="assets/headings/desc-about.svg" alt="Founder building AI-native infrastructure." width="289" height="18" />
 
 Seven years shipping APIs, developer platforms, and production software.
 
