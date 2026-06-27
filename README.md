@@ -24,14 +24,26 @@ Founder building AI-native infrastructure through Promix, Mnemos, HoliPet, and V
 
 <p align="left">
   <img src="assets/logos/claude-code.svg" height="36" />
-  <img src="assets/logos/openai.svg" height="36" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logos/openai-dark.svg" />
+    <img src="assets/logos/openai.svg" height="36" />
+  </picture>
   <img src="assets/logos/gemini.svg" height="36" />
-  <img src="assets/logos/mcp.svg" height="36" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logos/mcp-dark.svg" />
+    <img src="assets/logos/mcp.svg" height="36" />
+  </picture>
   <img src="assets/logos/python.svg" height="36" />
   <img src="assets/logos/typescript.svg" height="36" />
-  <img src="assets/logos/github.svg" height="36" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logos/github-dark.svg" />
+    <img src="assets/logos/github.svg" height="36" />
+  </picture>
   <img src="assets/logos/supabase.svg" height="36" />
-  <img src="assets/logos/vercel.svg" height="36" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logos/vercel-dark.svg" />
+    <img src="assets/logos/vercel.svg" height="36" />
+  </picture>
 </p>
 
 ---
