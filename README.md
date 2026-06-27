@@ -24,6 +24,10 @@ I build the infrastructure that converts one into the other.
   <img src="assets/logos/python.svg" height="36" />
   <img src="assets/logos/typescript.svg" height="36" />
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logos/rust-dark.svg" />
+    <img src="assets/logos/rust.svg" height="36" />
+  </picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/logos/github-dark.svg" />
     <img src="assets/logos/github.svg" height="36" />
   </picture>
