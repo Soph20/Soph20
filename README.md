@@ -42,12 +42,49 @@ Founder building AI-native infrastructure through Promix, Mnemos, HoliPet, and V
 
 ---
 
-## Currently
+## Currently working on
 
-- Building **Promix**, an operating system for AI workforces.
-- Building **Mnemos**, a knowledge pipeline for AI agents.
-- Applying production AI to pet healthcare through **HoliPet**.
-- Exploring agent memory, context engineering, evaluation, and long-running AI systems.
+### Promix — The Operating System for AI Workforces
+
+Promix is a production runtime for AI-native teams.
+
+It provides specialized agents, institutional memory, reusable skills, quality gates, MCP integration, multi-provider routing, and standalone execution.
+
+The runtime is intentionally thin. The intelligence lives in prompts, skills, and evaluation—not framework code—because models improve faster than runtimes.
+
+Every system on this page is built on the principles behind Promix.
+
+### Mnemos — Capture knowledge once. Your agents apply it.
+
+Mnemos is a knowledge pipeline that transforms what you learn into actionable context for AI agents.
+
+Your agent doesn't know the article you read this morning, the framework you discovered last week, or the decision you made yesterday.
+
+Mnemos changes that. Capture knowledge once.
+
+Mnemos extracts it, stores it as Markdown in your own GitHub repository, and serves it through MCP to any compatible agent.
+
+Before every session, it briefs your agent with what matters now, surfaces relevant knowledge automatically, synthesizes reusable rules, and generates implementation plans.
+
+Most knowledge tools help humans remember.
+
+**Mnemos helps AI agents execute.**
+
+→ https://github.com/Soph20/mnemos-capture
+
+### HoliPet — AI-native pet care platform
+
+AI-native pet care platform combining triage, veterinary booking, subscriptions, services, and payments.
+
+The interesting part is the architecture.
+
+Emergency requests are classified deterministically before any LLM is invoked using multilingual keyword matching and semantic embeddings, prioritizing recall where false negatives are unacceptable.
+
+Everything else is routed through local models for privacy and cost efficiency.
+
+→ https://holipet.io
+
+Also exploring agent memory, context engineering, evaluation, and long-running AI systems.
 
 ---
 
@@ -64,76 +101,7 @@ Founder building AI-native infrastructure through Promix, Mnemos, HoliPet, and V
 
 ---
 
-## Ecosystem
-
-```
-                Promix
-                   │
-      ┌────────────┼────────────┐
-    Mnemos      HoliPet      Vantx
-```
-
----
-
-# Promix
-
-### The Operating System for AI Workforces
-
-Promix is a production runtime for AI-native teams.
-
-It provides specialized agents, institutional memory, reusable skills, quality gates, MCP integration, multi-provider routing, and standalone execution.
-
-The runtime is intentionally thin. The intelligence lives in prompts, skills, and evaluation—not framework code—because models improve faster than runtimes.
-
-Every system on this page is built on the principles behind Promix.
-
----
-
-# Mnemos
-
-## Capture knowledge once. Your agents apply it.
-
-Humans consume information.
-
-Agents execute information.
-
-Mnemos converts one into the other.
-
-Mnemos is a knowledge pipeline that transforms what you learn into actionable context for AI agents.
-
-Your agent doesn't know the article you read this morning, the framework you discovered last week, or the decision you made yesterday.
-
-Mnemos changes that.
-
-Capture knowledge once.
-
-Mnemos extracts it, stores it as Markdown in your own GitHub repository, and serves it through MCP to any compatible agent.
-
-Before every session, it briefs your agent with what matters now, surfaces relevant knowledge automatically, synthesizes reusable rules, and generates implementation plans.
-
-Most knowledge tools help humans remember.
-
-**Mnemos helps AI agents execute.**
-
-→ https://github.com/Soph20/mnemos-capture
-
----
-
-# HoliPet
-
-AI-native pet care platform combining triage, veterinary booking, subscriptions, services, and payments.
-
-The interesting part is the architecture.
-
-Emergency requests are classified deterministically before any LLM is invoked using multilingual keyword matching and semantic embeddings, prioritizing recall where false negatives are unacceptable.
-
-Everything else is routed through local models for privacy and cost efficiency.
-
-→ https://holipet.io
-
----
-
-# Principles
+## Principles
 
 - Context is infrastructure.
 - Institutional memory compounds.
