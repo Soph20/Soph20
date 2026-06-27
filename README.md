@@ -117,6 +117,7 @@ Also exploring agent memory, context engineering, context memory graphs, evaluat
 - Prompts are software.
 - Evaluation beats intuition.
 - Thin runtimes outlast thick frameworks.
+- Design systems with AI at the core, not at the edge.
 - Build the tools you wish existed.
 
 ## About
