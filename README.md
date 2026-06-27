@@ -36,7 +36,11 @@ I build the infrastructure that converts one into the other.
 
 ## Currently working on
 
-### Promix — The Operating System for AI Workforces
+<p align="center">
+  <img src="assets/logos/promix.png" width="120" alt="Promix" />
+</p>
+
+<h3 align="center">The Operating System for AI Workforces</h3>
 
 Promix is a production runtime for AI-native teams.
 
@@ -46,7 +50,11 @@ The runtime is intentionally thin. The intelligence lives in prompts, skills, an
 
 Every system on this page is built on the principles behind Promix.
 
-### Mnemos — Capture knowledge once. Your agents apply it.
+<p align="center">
+  <img src="assets/logos/mnemos.png" width="120" alt="Mnemos" />
+</p>
+
+<h3 align="center">Capture knowledge once. Your agents apply it.</h3>
 
 Mnemos is a knowledge pipeline that transforms what you learn into actionable context for AI agents.
 
@@ -64,7 +72,11 @@ Most knowledge tools help humans remember.
 
 → https://github.com/Soph20/mnemos-capture
 
-### HoliPet — AI-native pet care platform
+<p align="center">
+  <img src="assets/logos/holipet.png" width="120" alt="HoliPet" />
+</p>
+
+<h3 align="center">AI-native pet care platform</h3>
 
 AI-native pet care platform combining triage, veterinary booking, subscriptions, services, and payments.
 
