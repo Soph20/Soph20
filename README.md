@@ -15,7 +15,7 @@ Founder building AI-native infrastructure through Promix, Mnemos, HoliPet, and V
 ---
 
 <p align="center">
-  <img src="assets/banner/hero.svg" alt="Soph" width="100%" />
+  <img src="assets/banner/hero.png" alt="Soph — Building systems where humans learn and AI executes." width="100%" />
 </p>
 
 ---
