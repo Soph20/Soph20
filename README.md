@@ -1,4 +1,4 @@
-# <img src="assets/headings/hi-im-soph.svg" alt="/hi-im-soph" width="227" height="44" />
+# <img src="assets/headings/hi-im-soph.svg" alt="/hi-im-soph" width="175" height="34" />
 
 Humans consume information.  
 Agents execute information.  
@@ -132,7 +132,9 @@ I build products at the intersection of AI systems, knowledge infrastructure, an
 
 Always exploring better ways for humans and technology to work together.
 
-<p align="center">
+### <img src="assets/headings/connect.svg" alt="/connect" width="129" height="34" />
+
+<p align="left">
   <a href="https://linkedin.com/in/sofia-padron-valdez"><img src="assets/social/linkedin.svg" width="28" height="28" alt="LinkedIn" /></a>
   &nbsp;
   <a href="mailto:sofia@spvtechnology.com"><img src="assets/social/email.svg" width="28" height="28" alt="Email" /></a>
