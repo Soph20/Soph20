@@ -76,8 +76,6 @@ Everything else is routed through local models for privacy and cost efficiency.
 
 → https://holipet.io
 
-Also exploring agent memory, context engineering, evaluation, and long-running AI systems.
-
 ## Expertise
 
 - Multi-Agent Systems
@@ -88,6 +86,8 @@ Also exploring agent memory, context engineering, evaluation, and long-running A
 - MCP
 - Production AI
 - Developer Tooling
+
+Also exploring agent memory, context engineering, evaluation, and long-running AI systems.
 
 ## Principles
 
@@ -110,4 +110,4 @@ Quoted in Forbes Centroamérica for work on HoliPet and the LATAM PetTech ecosys
 
 I build products at the intersection of AI systems, knowledge infrastructure, and real-world impact.
 
-> Always exploring better ways for humans and AI agents to work together.
+Always exploring better ways for humans and AI agents to work together.
