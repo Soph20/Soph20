@@ -1,10 +1,4 @@
-# Building systems where humans learn and AI executes.
-
----
-
 # Hi, I'm Soph
-
-## Building systems where humans learn and AI executes.
 
 > Humans consume information.
 > Agents execute information.
