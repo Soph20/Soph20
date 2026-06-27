@@ -1,33 +1,155 @@
-# Hi, I'm Soph 👋
+# Building systems where humans learn and AI executes.
 
-Currently working on **Promix** — an AI-native workforce. Mnemos, HoliPet, and Vantx run on top of it.
+---
 
-## My stack
-![Claude Code](https://img.shields.io/badge/Claude_Code-1e293b?style=flat-square&logo=anthropic&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-Protocol-1e293b?style=flat-square&logoColor=white) ![Python](https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-1e293b?style=flat-square&logo=typescript&logoColor=white) ![Claude API](https://img.shields.io/badge/Claude_API-1e293b?style=flat-square&logo=anthropic&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-1e293b?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-1e293b?style=flat-square&logo=googlegemini&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-1e293b?style=flat-square&logo=cursor&logoColor=white) ![Lovable](https://img.shields.io/badge/Lovable-1e293b?style=flat-square&logoColor=white) ![NotebookLM](https://img.shields.io/badge/NotebookLM-1e293b?style=flat-square&logo=google&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-1e293b?style=flat-square&logo=openai&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-1e293b?style=flat-square&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-1e293b?style=flat-square&logo=figma&logoColor=white) ![Linear](https://img.shields.io/badge/Linear-1e293b?style=flat-square&logo=linear&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-1e293b?style=flat-square&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-1e293b?style=flat-square&logo=notion&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-1e293b?style=flat-square&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-1e293b?style=flat-square&logo=vercel&logoColor=white) ![Google Stitch](https://img.shields.io/badge/Google_Stitch-1e293b?style=flat-square&logo=google&logoColor=white) ![Perplexity](https://img.shields.io/badge/Perplexity-1e293b?style=flat-square&logo=perplexity&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-1e293b?style=flat-square&logo=jupyter&logoColor=white)
+# Hi, I'm Soph
 
-## What I work on
+## Building systems where humans learn and AI executes.
 
-- **AI agent orchestration**: multi-agent teams, sequential workflows, constitutional rules, quality gates, institutional memory
-- **Agentic developer tools**: Claude Code skills, CODEX, MCP integrations, scheduled tasks, capture-to-workflow pipelines
-- **AI deployment patterns**: how to structure agents, handle failure modes, manage context, evaluate outputs
-- **Product + engineering**: seven years shipping APIs, delivery tooling, and platforms at scale — I build what I spec
+> Humans consume information.
+> Agents execute information.
+> I build the infrastructure that converts one into the other.
 
-## What I'm building
+Founder building AI-native infrastructure through Promix, Mnemos, HoliPet, and Vantx.
 
-- **[Mnemos](https://github.com/Soph20/mnemos-capture)**  — A knowledge pipeline that ingests the outside world and makes it directly actionable by any AI agent — over MCP.
+---
 
-  Your agent only knows what it was trained on. It doesn't know the article you read this morning, the framework you found last week, or the decision you made last sprint. Your AI agent           finally knows what you've been reading.
+<p align="center">
+  <img src="assets/banner/hero.svg" alt="Soph" width="100%" />
+</p>
 
-  Mnemos is the pipeline between the two. Capture any insight once — Mnemos extracts it, stores it as plain Markdown in your own GitHub repo, and serves it to your agent over MCP. Then it goes    further: at session start it briefs your agent on what matters right now, turns insights into implementation plans, and hands them to whatever assistant you run — Claude Code, Codex, Cursor,    Gemini, anything MCP-compatible.
+---
 
-  It's not a second brain, a vault, or a note-taking app — those store knowledge for you to read later. Mnemos makes knowledge your agent acts on now. Supports BYOK, and it uses Haiku 4.5 by      default, prompt caching — costs under $1/month. [Live](https://mnemos-capture.vercel.app).
+## Building With
 
-- **Promix OS** — An agentic workforce runtime: 16 specialized agents with hard role boundaries, 121 reusable skills, quality gates with standardized verdicts, and institutional memory across sessions. Runs inside Claude Code *or* standalone — its own CLI, daemon, MCP server, multi-provider router (Claude, OpenAI, Gemini), and web dashboard. Architecture is deliberately thin — the IP lives in the prompts and skills, not the runtime — because the right bet is that models keep improving. Powers the three products on this page.
+<p align="left">
+  <img src="assets/logos/claude-code.svg" height="36" />
+  <img src="assets/logos/openai.svg" height="36" />
+  <img src="assets/logos/gemini.svg" height="36" />
+  <img src="assets/logos/mcp.svg" height="36" />
+  <img src="assets/logos/python.svg" height="36" />
+  <img src="assets/logos/typescript.svg" height="36" />
+  <img src="assets/logos/github.svg" height="36" />
+  <img src="assets/logos/supabase.svg" height="36" />
+  <img src="assets/logos/vercel.svg" height="36" />
+</p>
 
-- **[HoliPet](https://holipet.lovable.app/)** — All-in-one pet care platform for: food subscriptions, vet booking, services, and payments in one place. The interesting part is the routing layer. Every free-text message in four languages (EN/ES/IT/NL) hits a two-tier classification system — but the tiers aren't symmetric. Tier 1 is deterministic: a multilingual distress-keyword dictionary plus sentence-transformer embeddings (cosine ≥ 0.90) catches SOS intents before any LLM runs. That was a deliberate architectural choice — for a safety-critical intent, you don't want a probabilistic model as your first line. Tier 2 routes everything else through a locally hosted Llama 3 70B; local inference was a conscious call for data privacy and cost control, not a default. Evaluation uses a labeled ground-truth set scored with semantic similarity — next iteration layers in per-class F1 and a confusion matrix, with SOS recall weighted highest because false negatives aren't symmetric. [Try it here](https://app.holipet.io/auth)
+---
 
-## About me
+## Currently
 
-Seven years shipping at scale — APIs, delivery tooling, platforms. Trilingual (ES/EN/FR). I learn by building: every system above exists because I hit the problem myself and couldn't find the right tool. 
+- Building **Promix**, an operating system for AI workforces.
+- Building **Mnemos**, a knowledge pipeline for AI agents.
+- Applying production AI to pet healthcare through **HoliPet**.
+- Exploring agent memory, context engineering, evaluation, and long-running AI systems.
 
-Quoted in [Forbes Centroamérica](https://forbescentroamerica.com/2025/07/17/pettech-una-industria-que-crece-y-representa-nuevas-oportunidades-de-negocio-en-latinoamerica/) as founder of HoliPet on the LATAM pet tech market.
+---
+
+## Expertise
+
+- Multi-Agent Systems
+- Context Engineering
+- Institutional Memory
+- Agent Evaluation
+- AI Infrastructure
+- MCP
+- Production AI
+- Developer Tooling
+
+---
+
+## Ecosystem
+
+```
+                Promix
+                   │
+      ┌────────────┼────────────┐
+    Mnemos      HoliPet      Vantx
+```
+
+---
+
+# Promix
+
+### The Operating System for AI Workforces
+
+Promix is a production runtime for AI-native teams.
+
+It provides specialized agents, institutional memory, reusable skills, quality gates, MCP integration, multi-provider routing, and standalone execution.
+
+The runtime is intentionally thin. The intelligence lives in prompts, skills, and evaluation—not framework code—because models improve faster than runtimes.
+
+Every system on this page is built on the principles behind Promix.
+
+---
+
+# Mnemos
+
+## Capture knowledge once. Your agents apply it.
+
+Humans consume information.
+
+Agents execute information.
+
+Mnemos converts one into the other.
+
+Mnemos is a knowledge pipeline that transforms what you learn into actionable context for AI agents.
+
+Your agent doesn't know the article you read this morning, the framework you discovered last week, or the decision you made yesterday.
+
+Mnemos changes that.
+
+Capture knowledge once.
+
+Mnemos extracts it, stores it as Markdown in your own GitHub repository, and serves it through MCP to any compatible agent.
+
+Before every session, it briefs your agent with what matters now, surfaces relevant knowledge automatically, synthesizes reusable rules, and generates implementation plans.
+
+Most knowledge tools help humans remember.
+
+**Mnemos helps AI agents execute.**
+
+→ https://github.com/Soph20/mnemos-capture
+
+---
+
+# HoliPet
+
+AI-native pet care platform combining triage, veterinary booking, subscriptions, services, and payments.
+
+The interesting part is the architecture.
+
+Emergency requests are classified deterministically before any LLM is invoked using multilingual keyword matching and semantic embeddings, prioritizing recall where false negatives are unacceptable.
+
+Everything else is routed through local models for privacy and cost efficiency.
+
+→ https://holipet.io
+
+---
+
+# Principles
+
+- Context is infrastructure.
+- Institutional memory compounds.
+- Prompts are software.
+- Evaluation beats intuition.
+- Thin runtimes outlast thick frameworks.
+- Build the tools you wish existed.
+
+---
+
+## About
+
+Founder building AI-native infrastructure.
+
+Seven years shipping APIs, developer platforms, and production software.
+
+Trilingual (ES • EN • FR).
+
+Quoted in Forbes Centroamérica for work on HoliPet and the LATAM PetTech ecosystem.
+
+I build products at the intersection of AI systems, knowledge infrastructure, and real-world impact.
+
+---
+
+> Always exploring better ways for humans and AI agents to work together.
