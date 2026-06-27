@@ -125,7 +125,7 @@ Founder building AI-native infrastructure.
 
 Seven years shipping APIs, developer platforms, and production software.
 
-Trilingual (ES • EN • FR).
+Trilingual &nbsp; <img src="assets/flags/mx.svg" width="40" height="30" alt="Mexico (Spanish)" /> &nbsp; <img src="assets/flags/us.svg" width="40" height="30" alt="United States (English)" /> &nbsp; <img src="assets/flags/fr.svg" width="40" height="30" alt="France (French)" />
 
 Quoted in Forbes Centroamérica for work on HoliPet and the LATAM PetTech ecosystem.
 
