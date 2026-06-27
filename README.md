@@ -8,7 +8,7 @@ I build the infrastructure that converts one into the other.
   <img src="assets/banner/hero.png" alt="Soph — Building systems where humans learn and AI executes." width="100%" />
 </p>
 
-## Building With
+### Building With
 
 <p align="left">
   <img src="assets/logos/claude-code.svg" width="40" height="40" alt="Claude" />
@@ -30,13 +30,13 @@ I build the infrastructure that converts one into the other.
   <img src="assets/logos/vercel.svg" width="40" height="40" alt="Vercel" />
 </p>
 
-## Currently working on
+### Currently working on
 
 <p align="center">
   <img src="assets/logos/promix.png" width="120" alt="Promix" />
 </p>
 
-<h3 align="center">The Operating System for AI Workforces</h3>
+<h4 align="center">The Operating System for AI Workforces</h4>
 
 Promix is a production runtime for AI-native teams.
 
@@ -50,7 +50,7 @@ Every system on this page is built on the principles behind Promix.
   <img src="assets/logos/mnemos.png" width="120" alt="Mnemos" />
 </p>
 
-<h3 align="center">Capture knowledge once. Your agents apply it.</h3>
+<h4 align="center">Capture knowledge once. Your agents apply it.</h4>
 
 Mnemos is a knowledge pipeline that transforms what you learn into actionable context for AI agents.
 
@@ -72,7 +72,7 @@ Most knowledge tools help humans remember.
   <img src="assets/logos/holipet.png" width="120" alt="HoliPet" />
 </p>
 
-<h3 align="center">AI-native pet care platform</h3>
+<h4 align="center">AI-native pet care platform</h4>
 
 AI-native pet care platform combining triage, veterinary booking, subscriptions, services, and payments.
 
@@ -82,7 +82,7 @@ Emergency requests are classified deterministically before any LLM is invoked us
 
 → https://holipet.io
 
-## Expertise
+### Expertise
 
 - Multi-Agent Systems
 - Context Engineering
@@ -95,7 +95,7 @@ Emergency requests are classified deterministically before any LLM is invoked us
 
 Also exploring agent memory, context engineering, context memory graphs, evaluation, and long-running AI systems.
 
-## Principles
+### Principles
 
 - Context is infrastructure.
 - Institutional memory compounds.
@@ -105,7 +105,7 @@ Also exploring agent memory, context engineering, context memory graphs, evaluat
 - Design systems with AI at the core, not at the edge.
 - Build the tools you wish existed.
 
-## About
+### About
 
 Founder building AI-native infrastructure.
 
@@ -118,3 +118,9 @@ Quoted in Forbes Centroamérica for work on HoliPet and the LATAM PetTech ecosys
 I build products at the intersection of AI systems, knowledge infrastructure, and real-world impact.
 
 Always exploring better ways for humans and technology to work together.
+
+<p align="center">
+  <a href="https://linkedin.com/in/sofia-padron-valdez"><img src="assets/social/linkedin.svg" width="28" height="28" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:sofia@spvtechnology.com"><img src="assets/social/email.svg" width="28" height="28" alt="Email" /></a>
+</p>
