@@ -1,4 +1,4 @@
-# <img src="assets/headings/hi-im-soph.svg" alt="/hi-im-soph" width="460" height="33" />
+### <img src="assets/headings/hi-im-soph.svg" alt="/hi-im-soph" width="460" height="33" />
 
 Humans consume information.  
 Agents execute information.  
