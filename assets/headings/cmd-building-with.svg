@@ -8,7 +8,7 @@
   <text x="17" y="25" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="600" fill="#4F8DF5">❯</text>
   <!-- typed command + in-flow caret (revealed left-to-right) -->
   <g clip-path="url(#type)">
-    <text x="34" y="25" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="600" fill="#1F2328">/building-with<tspan dx="1" font-weight="400" fill="#4F8DF5">▏<animate attributeName="opacity" values="1;0.1;1" dur="1.15s" begin="1.35s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/></tspan></text>
+    <text x="34" y="25" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="600" fill="#1F2328">/building-with<tspan dx="1" font-weight="400" fill="#4F8DF5" stroke="#4F8DF5" stroke-width="0.6">▏<animate attributeName="opacity" values="1;0.1;1" dur="1.15s" begin="1.35s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/></tspan></text>
   </g>
   <!-- description hint (right-aligned) -->
   <text x="584" y="25" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" fill="#6E7681">Languages, models, and infrastructure I build with.</text>
