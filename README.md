@@ -1,3 +1,5 @@
+### <img src="assets/headings/hi-im-soph.svg" alt="/hi-im-soph" width="460" height="33" />
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/headings/recap-dark.svg" />
   <img src="assets/headings/recap.svg" alt="Recap: I build the layer where humans learn and agents execute." width="520" />
