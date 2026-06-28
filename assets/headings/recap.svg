@@ -24,7 +24,7 @@
   <!-- ==================================== -->
 
   <!-- cycling shimmer words -->
-  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="18" font-weight="600" fill="url(#shine)">
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="600" fill="url(#shine)">
     <text x="40" y="27" opacity="0">Architecting<animate attributeName="opacity" dur="10s" begin="0s" repeatCount="indefinite" keyTimes="0;.02;.23;.25;1" values="0;1;1;0;0"/></text>
     <text x="40" y="27" opacity="0">Synthesizing<animate attributeName="opacity" dur="10s" begin="2.5s" repeatCount="indefinite" keyTimes="0;.02;.23;.25;1" values="0;1;1;0;0"/></text>
     <text x="40" y="27" opacity="0">Orchestrating<animate attributeName="opacity" dur="10s" begin="5s" repeatCount="indefinite" keyTimes="0;.02;.23;.25;1" values="0;1;1;0;0"/></text>
@@ -33,13 +33,13 @@
 
   <!-- animated three dots -->
   <g fill="#6E7681">
-    <circle cx="196" cy="22" r="1.7"><animate attributeName="opacity" values=".2;1;.2" dur="1.2s" begin="0s" repeatCount="indefinite"/></circle>
-    <circle cx="204" cy="22" r="1.7"><animate attributeName="opacity" values=".2;1;.2" dur="1.2s" begin=".2s" repeatCount="indefinite"/></circle>
-    <circle cx="212" cy="22" r="1.7"><animate attributeName="opacity" values=".2;1;.2" dur="1.2s" begin=".4s" repeatCount="indefinite"/></circle>
+    <circle cx="166" cy="22" r="1.6"><animate attributeName="opacity" values=".2;1;.2" dur="1.2s" begin="0s" repeatCount="indefinite"/></circle>
+    <circle cx="173" cy="22" r="1.6"><animate attributeName="opacity" values=".2;1;.2" dur="1.2s" begin=".2s" repeatCount="indefinite"/></circle>
+    <circle cx="180" cy="22" r="1.6"><animate attributeName="opacity" values=".2;1;.2" dur="1.2s" begin=".4s" repeatCount="indefinite"/></circle>
   </g>
 
   <!-- dim meta (homage to Claude's token/timing readout) -->
-  <text x="226" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#6E7681">(7 yrs · ↑ AI-native infra)</text>
+  <text x="191" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#6E7681">(7 yrs · ↑ AI-native infra)</text>
 
   <!-- recap line -->
   <text x="4" y="56" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14"><tspan fill="#6E7681">└ </tspan><tspan fill="#4F8DF5" font-weight="600">Recap:</tspan><tspan fill="#8B949E"> I build the layer where humans learn and agents execute.</tspan></text>
