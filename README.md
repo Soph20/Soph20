@@ -1,68 +1,69 @@
 ### <img src="assets/headings/hi-im-soph.svg" alt="/hi-im-soph" width="460" height="33" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/headings/recap-dark.svg" />
+  <img src="assets/headings/recap.svg" alt="Recap: I build the layer where humans learn and agents execute." width="520" />
+</picture>
+
 Humans consume information.  
 Agents execute information.  
 I build the infrastructure that converts one into the other.
 
-<p align="center">
-  <img src="assets/banner/hero.png" alt="Soph — Building systems where humans learn and AI executes." width="100%" />
-</p>
-
 ### <img src="assets/headings/sec-building-with.svg" alt="/building-with — Languages, models, and infrastructure I build with." width="460" height="53" />
 
 <p align="left">
-  <img src="assets/logos/claude-code.svg" width="32" height="32" alt="Claude" />
+  <img src="assets/logos/claude-code.svg" width="28" height="28" alt="Claude" />
   &nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/logos/openai-dark.svg" />
-    <img src="assets/logos/openai.svg" width="32" height="32" alt="OpenAI" />
+    <img src="assets/logos/openai.svg" width="28" height="28" alt="OpenAI" />
   </picture>
   &nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/logos/mcp-dark.svg" />
-    <img src="assets/logos/mcp.svg" width="32" height="32" alt="MCP" />
+    <img src="assets/logos/mcp.svg" width="28" height="28" alt="MCP" />
   </picture>
   &nbsp;
-  <img src="assets/logos/a2a.svg" width="32" height="32" alt="A2A (Agent2Agent)" />
+  <img src="assets/logos/a2a.svg" width="28" height="28" alt="A2A (Agent2Agent)" />
   &nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/logos/langchain-dark.svg" />
-    <img src="assets/logos/langchain.svg" width="32" height="32" alt="LangChain" />
+    <img src="assets/logos/langchain.svg" width="28" height="28" alt="LangChain" />
   </picture>
   &nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/logos/langgraph-dark.svg" />
-    <img src="assets/logos/langgraph.svg" width="32" height="32" alt="LangGraph" />
+    <img src="assets/logos/langgraph-light.svg" width="28" height="28" alt="LangGraph" />
   </picture>
   &nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/logos/transformers-dark.svg" />
-    <img src="assets/logos/transformers.svg" width="32" height="32" alt="Transformers (Hugging Face)" />
+    <img src="assets/logos/transformers.svg" width="28" height="28" alt="Transformers (Hugging Face)" />
   </picture>
   &nbsp;
-  <img src="assets/logos/jupyter.svg" width="32" height="32" alt="Jupyter" />
+  <img src="assets/logos/jupyter.svg" width="28" height="28" alt="Jupyter" />
   &nbsp;
-  <img src="assets/logos/python.svg" width="32" height="32" alt="Python" />
+  <img src="assets/logos/python.svg" width="28" height="28" alt="Python" />
   &nbsp;
-  <img src="assets/logos/typescript.svg" width="32" height="32" alt="TypeScript" />
+  <img src="assets/logos/typescript.svg" width="28" height="28" alt="TypeScript" />
   &nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/logos/rust-dark.svg" />
-    <img src="assets/logos/rust.svg" width="32" height="32" alt="Rust" />
+    <img src="assets/logos/rust.svg" width="28" height="28" alt="Rust" />
   </picture>
   &nbsp;
-  <img src="assets/logos/docker.svg" width="32" height="32" alt="Docker" />
+  <img src="assets/logos/docker.svg" width="28" height="28" alt="Docker" />
   &nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/logos/github-dark.svg" />
-    <img src="assets/logos/github.svg" width="32" height="32" alt="GitHub" />
+    <img src="assets/logos/github.svg" width="28" height="28" alt="GitHub" />
   </picture>
   &nbsp;
-  <img src="assets/logos/supabase.svg" width="32" height="32" alt="Supabase" />
+  <img src="assets/logos/supabase.svg" width="28" height="28" alt="Supabase" />
   &nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/logos/vercel-dark.svg" />
-    <img src="assets/logos/vercel.svg" width="32" height="32" alt="Vercel" />
+    <img src="assets/logos/vercel.svg" width="28" height="28" alt="Vercel" />
   </picture>
 </p>
 
@@ -113,8 +114,6 @@ AI-native pet care platform combining triage, veterinary booking, subscriptions,
 The interesting part is the architecture.
 
 Emergency requests are classified deterministically before any LLM is invoked using multilingual keyword matching and semantic embeddings, prioritizing recall where false negatives are unacceptable.
-
-→ https://holipet.io
 
 ### <img src="assets/headings/sec-expertise.svg" alt="/expertise — Where I go deep." width="460" height="53" />
 
