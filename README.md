@@ -7,10 +7,6 @@ Humans consume information.
 Agents execute information.  
 I build the infrastructure that converts one into the other.
 
-<p align="center">
-  <img src="assets/banner/hero.png" alt="Soph — Building systems where humans learn and AI executes." width="100%" />
-</p>
-
 ### <img src="assets/headings/sec-building-with.svg" alt="/building-with — Languages, models, and infrastructure I build with." width="460" height="53" />
 
 <p align="left">
@@ -104,6 +100,10 @@ Most knowledge tools help humans remember.
 **Mnemos helps AI agents execute.**
 
 → https://github.com/Soph20/mnemos-capture
+
+<p align="center">
+  <img src="assets/logos/holipet.png" width="120" alt="HoliPet" />
+</p>
 
 <h4 align="center">AI-native pet care platform</h4>
 
