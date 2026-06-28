@@ -1,4 +1,7 @@
-### <img src="assets/headings/hi-im-soph.svg" alt="/hi-im-soph" width="460" height="33" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/headings/cmd-hi-im-soph-dark.svg" />
+  <img src="assets/headings/cmd-hi-im-soph.svg" alt="/hi-im-soph" width="600" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/headings/recap-dark.svg" />
@@ -9,7 +12,10 @@ Humans consume information.
 Agents execute information.  
 I build the infrastructure that converts one into the other.
 
-### <img src="assets/headings/sec-building-with.svg" alt="/building-with — Languages, models, and infrastructure I build with." width="460" height="53" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/headings/cmd-building-with-dark.svg" />
+  <img src="assets/headings/cmd-building-with.svg" alt="/building-with — Languages, models, and infrastructure I build with." width="600" />
+</picture>
 
 <p align="left">
   <img src="assets/logos/claude-code.svg" width="28" height="28" alt="Claude" />
@@ -67,7 +73,10 @@ I build the infrastructure that converts one into the other.
   </picture>
 </p>
 
-### <img src="assets/headings/sec-currently-working-on.svg" alt="/currently-working-on — The systems I'm building right now." width="460" height="53" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/headings/cmd-currently-working-on-dark.svg" />
+  <img src="assets/headings/cmd-currently-working-on.svg" alt="/currently-working-on — The systems I'm building right now." width="600" />
+</picture>
 
 <p align="center">
   <img src="assets/logos/promix.png" width="120" alt="Promix" />
@@ -115,7 +124,10 @@ The interesting part is the architecture.
 
 Emergency requests are classified deterministically before any LLM is invoked using multilingual keyword matching and semantic embeddings, prioritizing recall where false negatives are unacceptable.
 
-### <img src="assets/headings/sec-expertise.svg" alt="/expertise — Where I go deep." width="460" height="53" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/headings/cmd-expertise-dark.svg" />
+  <img src="assets/headings/cmd-expertise.svg" alt="/expertise — Where I go deep." width="600" />
+</picture>
 
 - Multi-Agent Systems
 - Context Engineering
@@ -128,7 +140,10 @@ Emergency requests are classified deterministically before any LLM is invoked us
 
 Also exploring agent memory, context engineering, context memory graphs, evaluation, and long-running AI systems.
 
-### <img src="assets/headings/sec-principles.svg" alt="/principles — How I approach building." width="460" height="53" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/headings/cmd-principles-dark.svg" />
+  <img src="assets/headings/cmd-principles.svg" alt="/principles — How I approach building." width="600" />
+</picture>
 
 - Context is infrastructure.
 - Institutional memory compounds.
@@ -138,7 +153,10 @@ Also exploring agent memory, context engineering, context memory graphs, evaluat
 - Design systems with AI at the core, not at the edge.
 - Build the tools you wish existed.
 
-### <img src="assets/headings/sec-about.svg" alt="/about — Founder building AI-native infrastructure." width="460" height="53" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/headings/cmd-about-dark.svg" />
+  <img src="assets/headings/cmd-about.svg" alt="/about — Founder building AI-native infrastructure." width="600" />
+</picture>
 
 Seven years shipping APIs, developer platforms, and production software.
 
@@ -150,7 +168,10 @@ I build products at the intersection of AI systems, knowledge infrastructure, an
 
 Always exploring better ways for humans and technology to work together.
 
-### <img src="assets/headings/connect.svg" alt="/connect" width="460" height="33" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/headings/cmd-connect-dark.svg" />
+  <img src="assets/headings/cmd-connect.svg" alt="/connect" width="600" />
+</picture>
 
 <p align="left">
   <a href="https://linkedin.com/in/sofia-padron-valdez"><img src="assets/social/linkedin.svg" width="28" height="28" alt="LinkedIn" /></a>
