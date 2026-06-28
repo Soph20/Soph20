@@ -9,13 +9,19 @@
       <stop offset="1" stop-color="#8FA3BC"/>
       <animateTransform attributeName="gradientTransform" type="translate" from="-150 0" to="340 0" dur="2.6s" repeatCount="indefinite"/>
     </linearGradient>
+    <!-- metallic blue-steel for the sigma mark -->
+    <linearGradient id="sig" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#CDDAEC"/>
+      <stop offset=".5" stop-color="#6A8AB4"/>
+      <stop offset="1" stop-color="#3A4E6E"/>
+    </linearGradient>
   </defs>
 
-  <!-- ====== LOGO: placeholder spark — replace the <path> below with your mark ====== -->
+  <!-- ====== LOGO: Soph sigma mark ====== -->
   <g id="logo">
-    <path d="M16 11 L18.5 17.5 L25 20 L18.5 22.5 L16 29 L13.5 22.5 L7 20 L13.5 17.5 Z" fill="#4F8DF5"/>
+    <path d="M3 7 L27 9 L31 11 L27 13.5 L6 13.5 Z M6 13.5 L13 13.5 L21 20 L15 20 Z M15 20 L21 20 L13 26.5 L6 26.5 Z M6 26.5 L27 26.5 L31 29 L27 31 L6 31 L3 33 Z" fill="url(#sig)"/>
   </g>
-  <!-- =============================================================================== -->
+  <!-- ==================================== -->
 
   <!-- cycling shimmer words -->
   <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="18" font-weight="600" fill="url(#shine)">

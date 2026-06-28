@@ -117,8 +117,6 @@ The interesting part is the architecture.
 
 Emergency requests are classified deterministically before any LLM is invoked using multilingual keyword matching and semantic embeddings, prioritizing recall where false negatives are unacceptable.
 
-→ https://holipet.io
-
 ### <img src="assets/headings/sec-expertise.svg" alt="/expertise — Where I go deep." width="460" height="53" />
 
 - Multi-Agent Systems
