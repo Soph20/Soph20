@@ -25,11 +25,20 @@ I build the infrastructure that converts one into the other.
   &nbsp;
   <img src="assets/logos/a2a.svg" width="32" height="32" alt="A2A (Agent2Agent)" />
   &nbsp;
-  <img src="assets/logos/langchain.svg" width="32" height="32" alt="LangChain" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logos/langchain-dark.svg" />
+    <img src="assets/logos/langchain.svg" width="32" height="32" alt="LangChain" />
+  </picture>
   &nbsp;
-  <img src="assets/logos/langgraph.svg" width="32" height="32" alt="LangGraph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logos/langgraph-dark.svg" />
+    <img src="assets/logos/langgraph.svg" width="32" height="32" alt="LangGraph" />
+  </picture>
   &nbsp;
-  <img src="assets/logos/transformers.svg" width="32" height="32" alt="Transformers (Hugging Face)" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logos/transformers-dark.svg" />
+    <img src="assets/logos/transformers.svg" width="32" height="32" alt="Transformers (Hugging Face)" />
+  </picture>
   &nbsp;
   <img src="assets/logos/jupyter.svg" width="32" height="32" alt="Jupyter" />
   &nbsp;
