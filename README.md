@@ -11,49 +11,49 @@ I build the infrastructure that converts one into the other.
 ### <img src="assets/headings/sec-building-with.svg" alt="/building-with — Languages, models, and infrastructure I build with." width="460" height="53" />
 
 <p align="left">
-  <img src="assets/logos/claude-code.svg" width="40" height="40" alt="Claude" />
+  <img src="assets/logos/claude-code.svg" width="32" height="32" alt="Claude" />
   &nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/logos/openai-dark.svg" />
-    <img src="assets/logos/openai.svg" width="40" height="40" alt="OpenAI" />
+    <img src="assets/logos/openai.svg" width="32" height="32" alt="OpenAI" />
   </picture>
   &nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/logos/mcp-dark.svg" />
-    <img src="assets/logos/mcp.svg" width="40" height="40" alt="MCP" />
+    <img src="assets/logos/mcp.svg" width="32" height="32" alt="MCP" />
   </picture>
   &nbsp;
-  <img src="assets/logos/a2a.svg" width="40" height="40" alt="A2A (Agent2Agent)" />
+  <img src="assets/logos/a2a.svg" width="32" height="32" alt="A2A (Agent2Agent)" />
   &nbsp;
-  <img src="assets/logos/langchain.svg" width="40" height="40" alt="LangChain" />
+  <img src="assets/logos/langchain.svg" width="32" height="32" alt="LangChain" />
   &nbsp;
-  <img src="assets/logos/langgraph.svg" width="40" height="40" alt="LangGraph" />
+  <img src="assets/logos/langgraph.svg" width="32" height="32" alt="LangGraph" />
   &nbsp;
-  <img src="assets/logos/transformers.svg" width="40" height="40" alt="Transformers (Hugging Face)" />
+  <img src="assets/logos/transformers.svg" width="32" height="32" alt="Transformers (Hugging Face)" />
   &nbsp;
-  <img src="assets/logos/jupyter.svg" width="40" height="40" alt="Jupyter" />
+  <img src="assets/logos/jupyter.svg" width="32" height="32" alt="Jupyter" />
   &nbsp;
-  <img src="assets/logos/python.svg" width="40" height="40" alt="Python" />
+  <img src="assets/logos/python.svg" width="32" height="32" alt="Python" />
   &nbsp;
-  <img src="assets/logos/typescript.svg" width="40" height="40" alt="TypeScript" />
+  <img src="assets/logos/typescript.svg" width="32" height="32" alt="TypeScript" />
   &nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/logos/rust-dark.svg" />
-    <img src="assets/logos/rust.svg" width="40" height="40" alt="Rust" />
+    <img src="assets/logos/rust.svg" width="32" height="32" alt="Rust" />
   </picture>
   &nbsp;
-  <img src="assets/logos/docker.svg" width="40" height="40" alt="Docker" />
+  <img src="assets/logos/docker.svg" width="32" height="32" alt="Docker" />
   &nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/logos/github-dark.svg" />
-    <img src="assets/logos/github.svg" width="40" height="40" alt="GitHub" />
+    <img src="assets/logos/github.svg" width="32" height="32" alt="GitHub" />
   </picture>
   &nbsp;
-  <img src="assets/logos/supabase.svg" width="40" height="40" alt="Supabase" />
+  <img src="assets/logos/supabase.svg" width="32" height="32" alt="Supabase" />
   &nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/logos/vercel-dark.svg" />
-    <img src="assets/logos/vercel.svg" width="40" height="40" alt="Vercel" />
+    <img src="assets/logos/vercel.svg" width="32" height="32" alt="Vercel" />
   </picture>
 </p>
 
