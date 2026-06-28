@@ -18,28 +18,28 @@
   </defs>
 
   <!-- ====== LOGO: Soph sigma mark ====== -->
-  <g id="logo">
+  <g id="logo" transform="translate(4 9) scale(0.62)">
     <path d="M3 7 L27 9 L31 11 L27 13.5 L6 13.5 Z M6 13.5 L13 13.5 L21 20 L15 20 Z M15 20 L21 20 L13 26.5 L6 26.5 Z M6 26.5 L27 26.5 L31 29 L27 31 L6 31 L3 33 Z" fill="url(#sig)"/>
   </g>
   <!-- ==================================== -->
 
   <!-- cycling shimmer words -->
   <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="600" fill="url(#shine)">
-    <text x="40" y="27" opacity="0">Architecting<animate attributeName="opacity" dur="10s" begin="0s" repeatCount="indefinite" keyTimes="0;.02;.23;.25;1" values="0;1;1;0;0"/></text>
-    <text x="40" y="27" opacity="0">Synthesizing<animate attributeName="opacity" dur="10s" begin="2.5s" repeatCount="indefinite" keyTimes="0;.02;.23;.25;1" values="0;1;1;0;0"/></text>
-    <text x="40" y="27" opacity="0">Orchestrating<animate attributeName="opacity" dur="10s" begin="5s" repeatCount="indefinite" keyTimes="0;.02;.23;.25;1" values="0;1;1;0;0"/></text>
-    <text x="40" y="27" opacity="0">Composing<animate attributeName="opacity" dur="10s" begin="7.5s" repeatCount="indefinite" keyTimes="0;.02;.23;.25;1" values="0;1;1;0;0"/></text>
+    <text x="28" y="27" opacity="0">Architecting<animate attributeName="opacity" dur="10s" begin="0s" repeatCount="indefinite" keyTimes="0;.02;.23;.25;1" values="0;1;1;0;0"/></text>
+    <text x="28" y="27" opacity="0">Synthesizing<animate attributeName="opacity" dur="10s" begin="2.5s" repeatCount="indefinite" keyTimes="0;.02;.23;.25;1" values="0;1;1;0;0"/></text>
+    <text x="28" y="27" opacity="0">Orchestrating<animate attributeName="opacity" dur="10s" begin="5s" repeatCount="indefinite" keyTimes="0;.02;.23;.25;1" values="0;1;1;0;0"/></text>
+    <text x="28" y="27" opacity="0">Composing<animate attributeName="opacity" dur="10s" begin="7.5s" repeatCount="indefinite" keyTimes="0;.02;.23;.25;1" values="0;1;1;0;0"/></text>
   </g>
 
   <!-- animated three dots -->
   <g fill="#8B949E">
-    <circle cx="166" cy="22" r="1.6"><animate attributeName="opacity" values=".2;1;.2" dur="1.2s" begin="0s" repeatCount="indefinite"/></circle>
-    <circle cx="173" cy="22" r="1.6"><animate attributeName="opacity" values=".2;1;.2" dur="1.2s" begin=".2s" repeatCount="indefinite"/></circle>
-    <circle cx="180" cy="22" r="1.6"><animate attributeName="opacity" values=".2;1;.2" dur="1.2s" begin=".4s" repeatCount="indefinite"/></circle>
+    <circle cx="154" cy="22" r="1.6"><animate attributeName="opacity" values=".2;1;.2" dur="1.2s" begin="0s" repeatCount="indefinite"/></circle>
+    <circle cx="161" cy="22" r="1.6"><animate attributeName="opacity" values=".2;1;.2" dur="1.2s" begin=".2s" repeatCount="indefinite"/></circle>
+    <circle cx="168" cy="22" r="1.6"><animate attributeName="opacity" values=".2;1;.2" dur="1.2s" begin=".4s" repeatCount="indefinite"/></circle>
   </g>
 
   <!-- dim meta (homage to Claude's token/timing readout) -->
-  <text x="191" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#768390">(7 yrs · ↑ AI-native infra)</text>
+  <text x="179" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#768390">(7 yrs · ↑ AI-native infra)</text>
 
   <!-- recap line -->
   <text x="4" y="56" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14"><tspan fill="#768390">└ </tspan><tspan fill="#4F8DF5" font-weight="600">Recap:</tspan><tspan fill="#8B949E"> I build the layer where humans learn and agents execute.</tspan></text>
