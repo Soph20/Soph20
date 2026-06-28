@@ -92,9 +92,7 @@ Mnemos is a knowledge pipeline that transforms what you learn into actionable co
 
 Your agent doesn't know the article you read this morning, the framework you discovered last week, or the decision you made yesterday.
 
-Mnemos changes that. Capture knowledge once.
-
-Mnemos extracts it, stores it as Markdown in your own GitHub repository, and serves it through MCP to any compatible agent.
+Mnemos changes that.
 
 Before every session, it briefs your agent with what matters now, surfaces relevant knowledge automatically, synthesizes reusable rules, and generates implementation plans.
 
