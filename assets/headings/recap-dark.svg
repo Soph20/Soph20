@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 74" width="560" height="74" role="img" aria-label="Recap: I build the layer where humans learn and agents execute.">
+  <defs>
+    <!-- metallic shine sweep (dark theme) -->
+    <linearGradient id="shine" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="120" y2="0">
+      <stop offset="0" stop-color="#8FA3BC"/>
+      <stop offset=".45" stop-color="#8FA3BC"/>
+      <stop offset=".5" stop-color="#EAF2FF"/>
+      <stop offset=".55" stop-color="#8FA3BC"/>
+      <stop offset="1" stop-color="#8FA3BC"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-150 0" to="340 0" dur="2.6s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+
+  <!-- ====== LOGO: placeholder spark — replace the <path> below with your mark ====== -->
+  <g id="logo">
+    <path d="M16 11 L18.5 17.5 L25 20 L18.5 22.5 L16 29 L13.5 22.5 L7 20 L13.5 17.5 Z" fill="#4F8DF5"/>
+  </g>
+  <!-- =============================================================================== -->
+
+  <!-- cycling shimmer words -->
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="18" font-weight="600" fill="url(#shine)">
+    <text x="40" y="27" opacity="0">Architecting<animate attributeName="opacity" dur="10s" begin="0s" repeatCount="indefinite" keyTimes="0;.02;.23;.25;1" values="0;1;1;0;0"/></text>
+    <text x="40" y="27" opacity="0">Synthesizing<animate attributeName="opacity" dur="10s" begin="2.5s" repeatCount="indefinite" keyTimes="0;.02;.23;.25;1" values="0;1;1;0;0"/></text>
+    <text x="40" y="27" opacity="0">Orchestrating<animate attributeName="opacity" dur="10s" begin="5s" repeatCount="indefinite" keyTimes="0;.02;.23;.25;1" values="0;1;1;0;0"/></text>
+    <text x="40" y="27" opacity="0">Composing<animate attributeName="opacity" dur="10s" begin="7.5s" repeatCount="indefinite" keyTimes="0;.02;.23;.25;1" values="0;1;1;0;0"/></text>
+  </g>
+
+  <!-- animated three dots -->
+  <g fill="#8B949E">
+    <circle cx="196" cy="22" r="1.7"><animate attributeName="opacity" values=".2;1;.2" dur="1.2s" begin="0s" repeatCount="indefinite"/></circle>
+    <circle cx="204" cy="22" r="1.7"><animate attributeName="opacity" values=".2;1;.2" dur="1.2s" begin=".2s" repeatCount="indefinite"/></circle>
+    <circle cx="212" cy="22" r="1.7"><animate attributeName="opacity" values=".2;1;.2" dur="1.2s" begin=".4s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- dim meta (homage to Claude's token/timing readout) -->
+  <text x="226" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#768390">(7 yrs · ↑ AI-native infra)</text>
+
+  <!-- recap line -->
+  <text x="4" y="56" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14"><tspan fill="#768390">└ </tspan><tspan fill="#4F8DF5" font-weight="600">Recap:</tspan><tspan fill="#8B949E"> I build the layer where humans learn and agents execute.</tspan></text>
+</svg>
