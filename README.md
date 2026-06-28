@@ -105,10 +105,6 @@ Most knowledge tools help humans remember.
 
 → https://github.com/Soph20/mnemos-capture
 
-<p align="center">
-  <img src="assets/logos/holipet.png" width="120" alt="HoliPet" />
-</p>
-
 <h4 align="center">AI-native pet care platform</h4>
 
 AI-native pet care platform combining triage, veterinary booking, subscriptions, services, and payments.
