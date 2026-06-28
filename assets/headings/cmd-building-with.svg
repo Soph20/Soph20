@@ -1,20 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 40" width="600" height="40" role="img" aria-label="/building-with — Languages, models, and infrastructure I build with.">
   <defs>
-    <clipPath id="type"><rect x="34" y="6" width="0" height="28"><animate attributeName="width" from="0" to="126" dur="0.85s" begin="0.35s" fill="freeze" calcMode="spline" keySplines="0.33 0 0.15 1"/></rect></clipPath>
+    <clipPath id="type"><rect x="32" y="6" width="0" height="28"><animate attributeName="width" from="0" to="150" dur="0.9s" begin="0.35s" fill="freeze" calcMode="spline" keySplines="0.33 0 0.15 1"/></rect></clipPath>
   </defs>
   <!-- input box -->
   <rect x="1" y="4" width="598" height="32" rx="10" fill="#FBFCFE" stroke="#E4E7EB" stroke-width="1.25"/>
   <!-- prompt -->
   <text x="17" y="25" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="600" fill="#4F8DF5">❯</text>
-  <!-- typed command (revealed left-to-right) -->
+  <!-- typed command + in-flow caret (revealed left-to-right) -->
   <g clip-path="url(#type)">
-    <text x="34" y="25" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="600" letter-spacing="0.2" fill="#1F2328">/building-with</text>
+    <text x="34" y="25" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="600" fill="#1F2328">/building-with<tspan dx="1" font-weight="400" fill="#4F8DF5">▏<animate attributeName="opacity" values="1;0.1;1" dur="1.15s" begin="1.35s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/></tspan></text>
   </g>
-  <!-- slim caret: rides the reveal edge, then settles and softly pulses -->
-  <rect y="13" width="1.5" height="15" rx="0.75" fill="#4F8DF5" x="34">
-    <animate attributeName="x" from="34" to="161" dur="0.85s" begin="0.35s" fill="freeze" calcMode="spline" keySplines="0.33 0 0.15 1"/>
-    <animate attributeName="opacity" values="1;0.1;1" dur="1.15s" begin="1.3s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
-  </rect>
   <!-- description hint (right-aligned) -->
   <text x="584" y="25" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" fill="#6E7681">Languages, models, and infrastructure I build with.</text>
 </svg>
