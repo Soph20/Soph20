@@ -76,6 +76,9 @@ I build the infrastructure that converts one into the other.
   </picture>
 </p>
 
+<br>
+<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/headings/cmd-currently-working-on-dark.svg" />
   <img src="assets/headings/cmd-currently-working-on.svg" alt="/currently-working-on — The systems I'm building right now." width="600" />
