@@ -20,7 +20,7 @@ I build the infrastructure that converts one into the other.
 <br>
 <br>
 
-<p align="center">
+<p align="left">
   <img src="assets/logos/claude-code.svg" width="28" height="28" alt="Claude" />
   &nbsp;
   <picture>
