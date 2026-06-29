@@ -129,16 +129,9 @@ Emergency requests are classified deterministically before any LLM is invoked us
   <img src="assets/headings/cmd-expertise.svg" alt="/expertise — Where I go deep." width="600" />
 </picture>
 
-- Multi-Agent Systems
-- Context Engineering
-- Institutional Memory
-- Agent Evaluation
-- AI Infrastructure
-- MCP
-- Production AI
-- Developer Tooling
+I work at the intersection of agentic systems and the infrastructure that makes them dependable. My depth is in multi-agent architectures, context engineering, and the institutional memory, ontologies, and context-memory graphs that give agents something durable to reason over.
 
-Also exploring agent memory, context engineering, context memory graphs, evaluation, and long-running AI systems.
+Underneath that, I build the AI and distributed systems that hold it together — evaluation harnesses, MCP integrations, and developer tooling — so agents stay reliable in production and across long-running workloads.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/headings/cmd-principles-dark.svg" />
