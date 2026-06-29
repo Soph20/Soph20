@@ -17,6 +17,9 @@ I build the infrastructure that converts one into the other.
   <img src="assets/headings/cmd-building-with.svg" alt="/building-with — Languages, models, and infrastructure I build with." width="600" />
 </picture>
 
+<br>
+<br>
+
 <p align="left">
   <img src="assets/logos/claude-code.svg" width="28" height="28" alt="Claude" />
   &nbsp;
@@ -73,6 +76,9 @@ I build the infrastructure that converts one into the other.
   </picture>
 </p>
 
+<br>
+<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/headings/cmd-currently-working-on-dark.svg" />
   <img src="assets/headings/cmd-currently-working-on.svg" alt="/currently-working-on — The systems I'm building right now." width="600" />
@@ -82,15 +88,17 @@ I build the infrastructure that converts one into the other.
   <img src="assets/logos/promix.png" width="120" alt="Promix" />
 </p>
 
-<h4 align="center">The Operating System for AI Workforces</h4>
+<h4 align="center">Ship production-grade software with AI workers.</h4>
 
-Promix is a production runtime for AI-native teams.
+AI coding tools make code easy to generate. Promix helps engineering teams ship production-grade code with AI workers.
 
-It provides specialized agents, institutional memory, reusable skills, quality gates, MCP integration, multi-provider routing, and standalone execution.
+Install Promix, give it your project context and way of working, and start running AI workers in minutes.
 
-The runtime is intentionally thin. The intelligence lives in prompts, skills, and evaluation—not framework code—because models improve faster than runtimes.
+Humans decide what ships. Promix gives AI workers the roles, memory, and checks they need to produce work teams can trust.
 
-Every system on this page is built on the principles behind Promix.
+Any AI coding assistant can become a way to run Promix workers.
+
+**AI workers do the work. Promix makes it shippable.**
 
 <p align="center">
   <img src="assets/logos/mnemos.png" width="120" alt="Mnemos" />
@@ -129,16 +137,11 @@ Emergency requests are classified deterministically before any LLM is invoked us
   <img src="assets/headings/cmd-expertise.svg" alt="/expertise — Where I go deep." width="600" />
 </picture>
 
-- Multi-Agent Systems
-- Context Engineering
-- Institutional Memory
-- Agent Evaluation
-- AI Infrastructure
-- MCP
-- Production AI
-- Developer Tooling
+I work at the intersection of agentic systems and the infrastructure that makes them dependable.
 
-Also exploring agent memory, context engineering, context memory graphs, evaluation, and long-running AI systems.
+My focus is on multi-agent architectures, context engineering, and the knowledge infrastructure that enables AI agents to accumulate, organize, and reason over information through institutional memory, ontologies, and graph-based representations.
+
+Powering those systems is the runtime infrastructure: evaluation, observability, orchestration, MCP integrations, and developer tooling that keep agents reliable across production environments and long-running workloads.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/headings/cmd-principles-dark.svg" />
