@@ -17,7 +17,10 @@ I build the infrastructure that converts one into the other.
   <img src="assets/headings/cmd-building-with.svg" alt="/building-with — Languages, models, and infrastructure I build with." width="600" />
 </picture>
 
-<p align="left">
+<br>
+<br>
+
+<p align="center">
   <img src="assets/logos/claude-code.svg" width="28" height="28" alt="Claude" />
   &nbsp;
   <picture>
