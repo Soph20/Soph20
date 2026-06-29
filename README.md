@@ -82,15 +82,15 @@ I build the infrastructure that converts one into the other.
   <img src="assets/logos/promix.png" width="120" alt="Promix" />
 </p>
 
-<h4 align="center">The Operating System for AI Workforces</h4>
+<h4 align="center">Ship production-grade software with AI workers.</h4>
 
-Promix is a production runtime for AI-native teams.
+AI coding tools make code easy to generate. Promix helps engineering teams ship production-grade code with AI workers.
 
-It provides specialized agents, institutional memory, reusable skills, quality gates, MCP integration, multi-provider routing, and standalone execution.
+Install Promix, give it your project context and way of working, and start running AI workers in minutes.
 
-The runtime is intentionally thin. The intelligence lives in prompts, skills, and evaluation—not framework code—because models improve faster than runtimes.
+Humans decide what ships. Promix gives AI workers the roles, memory, and checks they need to produce work teams can trust.
 
-Every system on this page is built on the principles behind Promix.
+Any AI coding assistant can become a way to run Promix workers.
 
 <p align="center">
   <img src="assets/logos/mnemos.png" width="120" alt="Mnemos" />
