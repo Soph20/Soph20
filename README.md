@@ -131,9 +131,11 @@ Emergency requests are classified deterministically before any LLM is invoked us
   <img src="assets/headings/cmd-expertise.svg" alt="/expertise — Where I go deep." width="600" />
 </picture>
 
-I work at the intersection of agentic systems and the infrastructure that makes them dependable. My depth is in multi-agent architectures, context engineering, and the institutional memory, ontologies, and context-memory graphs that give agents something durable to reason over.
+I work at the intersection of agentic systems and the infrastructure that makes them dependable.
 
-Underneath that, I build the AI and distributed systems that hold it together — evaluation harnesses, MCP integrations, and developer tooling — so agents stay reliable in production and across long-running workloads.
+My focus is on multi-agent architectures, context engineering, and the knowledge infrastructure that enables AI agents to accumulate, organize, and reason over information through institutional memory, ontologies, and graph-based representations.
+
+Powering those systems is the runtime infrastructure: evaluation, observability, orchestration, MCP integrations, and developer tooling that keep agents reliable across production environments and long-running workloads.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/headings/cmd-principles-dark.svg" />
