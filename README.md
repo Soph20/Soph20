@@ -92,6 +92,8 @@ Humans decide what ships. Promix gives AI workers the roles, memory, and checks 
 
 Any AI coding assistant can become a way to run Promix workers.
 
+**AI workers do the work. Promix makes it shippable.**
+
 <p align="center">
   <img src="assets/logos/mnemos.png" width="120" alt="Mnemos" />
 </p>
