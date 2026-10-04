@@ -10,11 +10,11 @@ I've spent seven years building APIs, developer tools, and software people use. 
 
 ### xkg
 
-Save articles, notes, and decisions so your AI coding tools can use them.
+I'm building a knowledge graph that connects what people know with what their AI agents can use.
 
-Paste a link or text. xkg saves the useful parts as Markdown files in your GitHub repo. Connect it to Claude Code, Codex, or Cursor to find notes, summarize what matters for your project, and make a plan.
+Today, xkg saves research, notes, and decisions in your GitHub repo and makes them available to AI tools through MCP. You own the files and choose your AI provider.
 
-I built the capture workflow, GitHub storage, and the MCP connection that lets coding tools read and use your saved knowledge. You keep your files and choose your AI provider.
+I'm developing the graph to connect facts to their sources, track how they change over time, and keep unreviewed AI guesses out of trusted context. The next step is to test whether following those connections gives better answers than keyword search. Later, the graph will record what was tried and what worked.
 
 [Try it](https://mnemos-capture.vercel.app) · [Code](https://github.com/xmu-labs/xkg) · [Get started](https://github.com/xmu-labs/xkg#start-here) · [Connect your tools](https://github.com/xmu-labs/xkg#connect-your-ai-workers)
 
