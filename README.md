@@ -1,61 +1,59 @@
 # Hi, I'm Soph
 
-**AI-Native Product Engineer focused on agentic systems and developer infrastructure.**
+**I design and build AI tools for developers.**
 
-My foundation is Product. I turn ambiguous problems into working systems: define the problem, design the architecture, make technical trade-offs, implement, evaluate, and iterate.
+I have seven years of experience building APIs, developer tools, and software used in production. My background is in product, and my work covers what to build, how the parts fit together, writing the code, and testing it.
 
-Seven years delivering APIs, developer platforms, and production software. My current work focuses on how humans and AI agents share knowledge, execute work, and connect to other systems.
-
-I built the projects below end to end, owning product strategy, architecture, implementation, and validation. I use AI agents throughout development and remain accountable for the decisions and the systems I ship.
+I build tools that help AI agents use what people know and work within clear limits. I designed and built all three projects below. I work with AI coding agents, review their changes, and test the results.
 
 ## Projects
 
 <img src="assets/logos/mnemos.png" alt="xkg logo" width="64" align="right" />
 
-### xkg — formerly Mnemos
+### xkg
 
-**Turn what you learn into context your AI agents can use.**
+**Give your AI coding tools access to your research, notes, and decisions.**
 
-For developers whose research, notes, and decisions rarely reach their coding agents. Capture URLs or text; xkg extracts useful knowledge and saves structured Markdown in your own GitHub repository.
+Paste a link or some text. xkg pulls out the useful parts and saves them as Markdown files in your GitHub repository. You keep your files and choose which AI provider to use.
 
-Connect through MCP to retrieve relevant context, get project briefings, synthesize reusable rules, and generate implementation plans. Your knowledge stays portable, and you choose your LLM provider.
+Connect through MCP to tools like Claude Code, Codex, or Cursor. Ask for relevant notes, a summary for your current project, rules based on what you've saved, or a plan for applying it.
 
-I designed and built the capture workflow, GitHub storage, MCP interface, and planning tools.
+I built the app, GitHub storage, MCP connection, and command-line tools.
 
-[Try the app](https://mnemos-capture.vercel.app) · [Source code](https://github.com/xmu-labs/xkg) · [Quick start](https://github.com/xmu-labs/xkg#start-here) · [Connect your agents](https://github.com/xmu-labs/xkg#connect-your-ai-workers)
+[Try the app](https://mnemos-capture.vercel.app) · [Code](https://github.com/xmu-labs/xkg) · [Get started](https://github.com/xmu-labs/xkg#start-here) · [Connect your tools](https://github.com/xmu-labs/xkg#connect-your-ai-workers)
 
 ### xmu — in development
 
-**Infrastructure for governed agent execution.**
+**Set limits on what AI agents can do and spend.**
 
-I am building the contracts, execution controls, and evaluation tooling for agents working alongside humans.
+xmu uses TypeScript to run agents and manage their work, with Rust recording events. Shared data formats keep the two parts compatible.
 
-The current implementation combines TypeScript execution and control logic with a Rust event log, joined through language-neutral contracts. It includes budget controls, model-provider adapters, cross-provider evaluation, and shared conformance checks.
+The code includes spending limits, access checks, connections to different AI providers, and tests that check whether the TypeScript and Rust parts follow the same rules. It also includes tools for comparing results and costs across AI providers.
 
-I own the product and architecture, including component boundaries and verification. The project is in private development; the full Rust runtime remains future work.
+I designed and built it. Development is private for now. Today, Rust handles the event log; moving the agent loop into Rust is planned.
 
 <img src="assets/logos/holipet.png" alt="HoliPet logo" width="120" align="right" />
 
 ### HoliPet
 
-**An intelligent assistant for pet care.**
+**An AI assistant for pet care.**
 
-I founded and built HoliPet end to end, from product definition to implementation, to help people navigate caring for their pets.
+I founded and built HoliPet to help people care for their pets.
 
-HoliPet was featured in Forbes Centroamérica, where I was quoted as its founder on the Latin American PetTech ecosystem.
+Forbes Centroamérica mentioned HoliPet and quoted me as its founder in an article about pet care businesses in Latin America.
 
-[Explore the demo](https://app.holipet.io/demo) · [Read the Forbes article](https://forbescentroamerica.com/2025/07/17/pettech-una-industria-que-crece-y-representa-nuevas-oportunidades-de-negocio-en-latinoamerica/)
+[Try the demo](https://app.holipet.io/demo) · [Read the article](https://forbescentroamerica.com/2025/07/17/pettech-una-industria-que-crece-y-representa-nuevas-oportunidades-de-negocio-en-latinoamerica/)
 
-## How I build
+## How I work
 
-- **Clear contracts.** Make responsibilities and component boundaries explicit.
-- **User control.** Preserve ownership of data and keep provider choices reversible.
-- **Evidence before expansion.** Use baselines and evaluations to decide what deserves further investment.
+- **Keep the parts clear.** Define what each part does and how it connects to the rest.
+- **Keep users in control.** Let them keep their data and choose their AI provider.
+- **Test before adding more.** Compare results and use what works.
 
-## Connect
+## Get in touch
 
-I welcome developers using my tools, contributors, and collaborators building agentic systems.
+Using one of my tools, found a bug, or want to build something together? I'd like to hear from you.
 
 [LinkedIn](https://linkedin.com/in/sofia-padron-valdez) · [Email](mailto:sofia@spvtechnology.com)
 
-Spanish · English · French
+I speak Spanish, English, and French.
