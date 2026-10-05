@@ -10,11 +10,11 @@ I've spent seven years building APIs, developer tools, and software people use. 
 
 ### xkg
 
-I'm building a knowledge graph that connects what people know with what their AI agents can use.
+A knowledge graph for AI agents that evolves with what people learn and do.
 
-Today, xkg saves research, notes, and decisions in your GitHub repo and makes them available to AI tools through MCP. You own the files and choose your AI provider.
+The design connects knowledge to its sources, checks new claims before agents use them, and keeps a history of what changed. It also uses the results of real work to remember what worked and improve the context agents receive next.
 
-I'm developing the graph to connect facts to their sources, track how they change over time, and keep unreviewed AI guesses out of trusted context. The next step is to test whether following those connections gives better answers than keyword search. Later, the graph will record what was tried and what worked.
+Your knowledge stays in your GitHub repo, and you choose the model. Capture and MCP access are available today; the graph and feedback loop are in development.
 
 [Try it](https://mnemos-capture.vercel.app) · [Code](https://github.com/xmu-labs/xkg) · [Get started](https://github.com/xmu-labs/xkg#start-here) · [Connect your tools](https://github.com/xmu-labs/xkg#connect-your-ai-workers)
 
