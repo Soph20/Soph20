@@ -20,13 +20,11 @@ You own the knowledge in your GitHub repo and choose your AI provider. Capture a
 
 ### xmu — in development
 
-**Shared engineering work for humans and AI agents, across the tools teams already use.**
+**xmu standardizes and governs how humans and AI agents work together.**
 
-xmu is designed to bring people, agents, and workflows into one shared run, where participants can follow the work, redirect it, and hand it off. A common core governs permissions, model choice, spending limits, and quality checks.
+The goal is shared engineering work across the agents, tools, models, and workflows teams already use. People and agents can collaborate on the same task, follow progress, redirect the work, and hand it off—with common rules for permissions, spending, and review.
 
-The architecture separates Rust execution from TypeScript product and control features through JSON Schema contracts. An append-only event log records activity in order. Agent definitions stay separate from model choice, so changing providers does not redefine the worker.
-
-The code is private. Current work builds the execution foundation; live collaboration across tools is still in development.
+The code is private and still in development.
 
 <img src="assets/logos/holipet.png" alt="HoliPet logo" width="120" align="right" />
 
