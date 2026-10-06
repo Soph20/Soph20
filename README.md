@@ -38,7 +38,9 @@ I founded and built HoliPet. Forbes Centroamérica mentioned it and quoted me in
 
 ## How I work
 
-I use AI coding tools, review their changes, and test the results. I compare approaches before adding more code.
+I start with the hardest assumption. I test it against a simpler approach before building more around it.
+
+I use AI agents to build, review, and test software. I make design tradeoffs explicit and require evidence that the system does what it claims.
 
 I build tools that make AI fit your workflow. You keep your data and choose your models.
 
