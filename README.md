@@ -42,7 +42,7 @@ I start with the hardest assumption. I test it against a simpler approach before
 
 I use AI agents to build, review, and test software. I make design tradeoffs explicit and require evidence that the system does what it claims.
 
-I build tools that make AI fit your workflow. You keep your data and choose your models.
+I believe technology should adapt to your workflow, not the other way around. I build tools with that in mind: you own the workflow, your data stays yours, and you choose the AI models.
 
 ## Get in touch
 
