@@ -10,11 +10,11 @@ I've spent seven years building APIs, developer tools, and software people use. 
 
 ### xkg
 
-Knowledge representation and retrieval for AI agents.
+**Give your AI agents relevant knowledge with sources you can check.**
 
-The design organizes knowledge into connected claims: what is supported, who said it, how it connects, and when it is valid. Agents follow those connections to retrieve the relevant knowledge for the task at hand. Verification checks control which claims and relationships can become context.
+xkg connects human knowledge to the AI tools people already use. Its design represents knowledge as a graph of claims and relationships, tracking who said what, the supporting sources, and when each claim is valid. Agents traverse those connections to retrieve context for their task. Verification checks allow only accepted claims with citations into that context.
 
-The knowledge lives in your GitHub repo. You own the files and choose the model. Capture and MCP access are available today; the claim graph, verification checks, and graph retrieval are in development.
+You own the knowledge in your GitHub repo and choose your AI provider. Capture and MCP access are available today; the claim graph, verification checks, and graph retrieval are in development.
 
 [Try it](https://mnemos-capture.vercel.app) · [Code](https://github.com/xmu-labs/xkg) · [Get started](https://github.com/xmu-labs/xkg#start-here) · [Connect your tools](https://github.com/xmu-labs/xkg#connect-your-ai-workers)
 
