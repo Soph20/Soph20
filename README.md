@@ -26,7 +26,7 @@ The goal is shared engineering work across the agents, tools, models, and workfl
 
 The code is private and still in development.
 
-<img src="assets/logos/holipet.png" alt="HoliPet logo" width="120" align="right" />
+<img src="assets/logos/holipet.png" alt="HoliPet logo" width="64" align="right" />
 
 ### HoliPet
 
