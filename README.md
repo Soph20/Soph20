@@ -2,7 +2,7 @@
 
 **I build AI tools for developers.**
 
-I've spent seven years building APIs, developer tools, and software people use. My background is in product. I built the products below, from deciding what to build to designing the systems, writing the code, and testing them.
+I work across product and engineering. I decide what to build, design the system, write the code, and test the result.
 
 ## What I'm building
 
