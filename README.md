@@ -20,13 +20,13 @@ You own the knowledge in your GitHub repo and choose your AI provider. Capture a
 
 ### xmu — in development
 
-A tool for running AI agents with limits on spending and tool use.
+**Shared engineering work for humans and AI agents, across the tools teams already use.**
 
-I designed and built the agent loop in TypeScript and the event log in Rust. The log records activity without rewriting earlier entries. I wrote shared tests to check that the TypeScript and Rust event logs behave the same way.
+xmu is designed to bring people, agents, and workflows into one shared run, where participants can follow the work, redirect it, and hand it off. A common core governs permissions, model choice, spending limits, and quality checks.
 
-The system checks spending limits and tool approvals. It also compares agent results and costs across AI providers.
+The architecture separates Rust execution from TypeScript product and control features through JSON Schema contracts. An append-only event log records activity in order. Agent definitions stay separate from model choice, so changing providers does not redefine the worker.
 
-The code is private and still in development.
+The code is private. Current work builds the execution foundation; live collaboration across tools is still in development.
 
 <img src="assets/logos/holipet.png" alt="HoliPet logo" width="120" align="right" />
 
