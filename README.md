@@ -40,7 +40,7 @@ I founded and built HoliPet. Forbes Centroamérica mentioned it and quoted me in
 
 I use AI coding tools, review their changes, and test the results. I compare approaches before adding more code.
 
-I build tools that let users keep their data and switch AI providers.
+I build tools that make AI fit your workflow. You keep your data and choose your models.
 
 ## Get in touch
 
