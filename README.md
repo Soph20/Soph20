@@ -18,13 +18,13 @@ Capture and MCP access are available today. The knowledge graph and verification
 
 [Try it](https://mnemos-capture.vercel.app) · [Code](https://github.com/xmu-labs/xkg) · [Get started](https://github.com/xmu-labs/xkg#start-here) · [Connect your tools](https://github.com/xmu-labs/xkg#connect-your-ai-workers)
 
-### xmu — in development
+### xmu — in stealth
 
 **xmu standardizes and governs how humans and AI agents work together.**
 
 The goal is shared engineering work across the agents, tools, models, and workflows teams already use. People and agents can collaborate on the same task, follow progress, redirect the work, and hand it off—with common rules for permissions, spending, and review.
 
-The code is private and still in development.
+The code is private.
 
 <img src="assets/logos/holipet.png" alt="HoliPet logo" width="64" align="right" />
 
