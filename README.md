@@ -24,8 +24,6 @@ Capture and MCP access are available today. The knowledge graph and verification
 
 The goal is shared engineering work across the agents, tools, models, and workflows teams already use. People and agents can collaborate on the same task, follow progress, redirect the work, and hand it off—with common rules for permissions, spending, and review.
 
-The code is private.
-
 <img src="assets/logos/holipet.png" alt="HoliPet logo" width="64" align="right" />
 
 ### HoliPet
