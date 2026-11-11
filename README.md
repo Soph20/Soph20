@@ -6,7 +6,7 @@ I work across product and engineering: I define problems, design systems, direct
 
 ## What I'm building
 
-<img src="assets/logos/mnemos.png" alt="xkg logo" width="64" align="right" />
+<img src="https://raw.githubusercontent.com/xmu-labs/xkg/main/public/brand/xkg-icon-dark.png" alt="xkg logo" width="64" align="right" />
 
 ### xkg
 
@@ -33,10 +33,6 @@ An AI assistant that helps people care for their pets.
 I founded and built HoliPet. Forbes Centroamérica mentioned it and quoted me in an article about pet care businesses in Latin America.
 
 [Demo](https://app.holipet.io/demo) · [Forbes article](https://forbescentroamerica.com/2025/07/17/pettech-una-industria-que-crece-y-representa-nuevas-oportunidades-de-negocio-en-latinoamerica/)
-
-### Focus companion — early exploration
-
-A personal iPhone app concept for starting tasks, staying in flow, and building a routine that adapts to how I work with ADHD. Currently in product design and planning; no app is available yet.
 
 ## How I work
 
