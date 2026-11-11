@@ -2,7 +2,7 @@
 
 **I build AI tools for developers.**
 
-I work across product and engineering. I decide what to build, design the system, write the code, and test the result.
+I work across product and engineering: I define problems, design systems, direct AI-assisted implementation, review the code, and test outcomes.
 
 ## What I'm building
 
@@ -16,9 +16,9 @@ The goal is to give agents the relevant, verified knowledge for the task at hand
 
 Capture and MCP access are available today. The knowledge graph and verification features are in development.
 
-[Try it](https://mnemos-capture.vercel.app) · [Code](https://github.com/xmu-labs/xkg) · [Get started](https://github.com/xmu-labs/xkg#start-here) · [Connect your tools](https://github.com/xmu-labs/xkg#connect-your-ai-workers)
+[Try it](https://xkg.xmu.sh) · [Code](https://github.com/xmu-labs/xkg) · [Get started](https://github.com/xmu-labs/xkg#get-started) · [Connect your tools](https://github.com/xmu-labs/xkg/blob/main/docs/connect.md)
 
-### xmu — in stealth
+### xmu — in development
 
 **xmu standardizes and governs how humans and AI agents work together.**
 
@@ -33,6 +33,10 @@ An AI assistant that helps people care for their pets.
 I founded and built HoliPet. Forbes Centroamérica mentioned it and quoted me in an article about pet care businesses in Latin America.
 
 [Demo](https://app.holipet.io/demo) · [Forbes article](https://forbescentroamerica.com/2025/07/17/pettech-una-industria-que-crece-y-representa-nuevas-oportunidades-de-negocio-en-latinoamerica/)
+
+### Focus companion — early exploration
+
+A personal iPhone app concept for starting tasks, staying in flow, and building a routine that adapts to how I work with ADHD. Currently in product design and planning; no app is available yet.
 
 ## How I work
 
